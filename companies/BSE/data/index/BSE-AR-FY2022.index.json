@@ -1,0 +1,390 @@
+{
+ "fy": "2022",
+ "pdf_pages": 305,
+ "sections": {
+  "balance_sheet": [
+   141,
+   149,
+   233
+  ],
+  "profit_loss": [
+   150,
+   234,
+   252
+  ],
+  "accounting_policies": [
+   149,
+   150,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161,
+   162,
+   163
+  ],
+  "segment": [
+   214,
+   288
+  ],
+  "related_party": [
+   40,
+   41,
+   84,
+   113,
+   114,
+   123,
+   201,
+   274
+  ],
+  "contingent": [
+   142,
+   157,
+   165,
+   214,
+   238,
+   288
+  ],
+  "corp_governance": [
+   43,
+   95,
+   125,
+   126,
+   127,
+   128,
+   129
+  ],
+  "remuneration": [
+   13,
+   29,
+   40,
+   50,
+   56,
+   222
+  ],
+  "csr": [
+   22,
+   28,
+   30,
+   40,
+   53,
+   54,
+   55,
+   118,
+   130,
+   131,
+   133,
+   139
+  ],
+  "bsr": [
+   43,
+   132
+  ],
+  "subsidiaries_aoc1": [
+   4,
+   30
+  ]
+ },
+ "notes": {
+  "01": {
+   "title": "AGM Notice",
+   "pdf_page": 10
+  },
+  "3": {
+   "title": "For updating E-mail ID & Bank details before the Cut-off",
+   "pdf_page": 20
+  },
+  "6": {
+   "title": "TDS on Dividend & Link for downloading formats for",
+   "pdf_page": 20
+  },
+  "13": {
+   "title": "He has attended various senior management training",
+   "pdf_page": 22
+  },
+  "16": {
+   "title": "Board's Report",
+   "pdf_page": 25
+  },
+  "18": {
+   "title": "Board's Report",
+   "pdf_page": 27
+  },
+  "20": {
+   "title": "Board's Report",
+   "pdf_page": 29
+  },
+  "22": {
+   "title": "Board's Report",
+   "pdf_page": 31
+  },
+  "24": {
+   "title": "Board's Report",
+   "pdf_page": 33
+  },
+  "26": {
+   "title": "Board's Report",
+   "pdf_page": 35
+  },
+  "28": {
+   "title": "Board's Report",
+   "pdf_page": 37
+  },
+  "29": {
+   "title": "RISK MANAGEMENT ORGANIZATION STRUCTURE",
+   "pdf_page": 38
+  },
+  "30": {
+   "title": "Board's Report",
+   "pdf_page": 39
+  },
+  "32": {
+   "title": "Board's Report",
+   "pdf_page": 41
+  },
+  "34": {
+   "title": "Board's Report",
+   "pdf_page": 43
+  },
+  "36": {
+   "title": "Board's Report",
+   "pdf_page": 45
+  },
+  "38": {
+   "title": "Board's Report",
+   "pdf_page": 47
+  },
+  "40": {
+   "title": "Board's Report",
+   "pdf_page": 49
+  },
+  "31": {
+   "title": "President and Group Chief Information",
+   "pdf_page": 49
+  },
+  "42": {
+   "title": "Board's Report",
+   "pdf_page": 51
+  },
+  "43": {
+   "title": "ANNEXURE I",
+   "pdf_page": 52
+  },
+  "44": {
+   "title": "Board's Report",
+   "pdf_page": 53
+  },
+  "46": {
+   "title": "Board's Report",
+   "pdf_page": 55
+  },
+  "48": {
+   "title": "Board's Report",
+   "pdf_page": 57
+  },
+  "49": {
+   "title": "ANNEXURE I",
+   "pdf_page": 58
+  },
+  "51": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 60
+  },
+  "1": {
+   "title": "ECONOMIC OUTLOOK",
+   "pdf_page": 60
+  },
+  "52": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 61
+  },
+  "54": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 63
+  },
+  "56": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 65
+  },
+  "57": {
+   "title": "Fiscal Deficit",
+   "pdf_page": 66
+  },
+  "58": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 67
+  },
+  "60": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 69
+  },
+  "61": {
+   "title": "Date Details of SEBI Circular",
+   "pdf_page": 70
+  },
+  "62": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 71
+  },
+  "64": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 73
+  },
+  "66": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 75
+  },
+  "68": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 77
+  },
+  "0": {
+   "title": "EXPERIENCE THE NEW",
+   "pdf_page": 78
+  },
+  "7": {
+   "title": "Indian Railway Finance Corporation",
+   "pdf_page": 78
+  },
+  "70": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 79
+  },
+  "9": {
+   "title": "JSW Infrastructure Limited (Exclusive",
+   "pdf_page": 79
+  },
+  "14": {
+   "title": "ReNew Wind Energy Delhi Private",
+   "pdf_page": 79
+  },
+  "15": {
+   "title": "Shriram Transport Finance Company",
+   "pdf_page": 79
+  },
+  "72": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 81
+  },
+  "74": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 83
+  },
+  "75": {
+   "title": "Redressal of complaints against listed companies",
+   "pdf_page": 84
+  },
+  "76": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 85
+  },
+  "78": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 87
+  },
+  "80": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 89
+  },
+  "82": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 91
+  },
+  "84": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 93
+  },
+  "86": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 95
+  },
+  "88": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 97
+  },
+  "90": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 99
+  },
+  "92": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 101
+  },
+  "94": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 103
+  },
+  "96": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 105
+  },
+  "98": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 107
+  },
+  "2": {
+   "title": "How many stakeholder complaints have been received in the",
+   "pdf_page": 133
+  },
+  "4": {
+   "title": "Has the Company taken any steps to procure goods",
+   "pdf_page": 135
+  },
+  "5": {
+   "title": "Do you have an employee association that is recognized by",
+   "pdf_page": 135
+  },
+  "8": {
+   "title": "What percentage of your under mentioned employees were",
+   "pdf_page": 136
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 154
+  },
+  "28.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 201
+  },
+  "38.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 214
+  },
+  "42.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 222
+  },
+  "69": {
+   "title": "Trustees of the",
+   "pdf_page": 229
+  },
+  "11": {
+   "title": "Other comprehensive income",
+   "pdf_page": 234
+  },
+  "3.1": {
+   "title": "CAPITAL WORK-IN-PROGRESS AGEING SCHEDULE",
+   "pdf_page": 251
+  },
+  "15.1": {
+   "title": "General reserve",
+   "pdf_page": 267
+  },
+  "15.2": {
+   "title": "Capital reserve",
+   "pdf_page": 267
+  },
+  "15.3": {
+   "title": "Retained earnings",
+   "pdf_page": 267
+  },
+  "39.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 291
+  }
+ },
+ "printed_map": null
+}

@@ -1,0 +1,182 @@
+[
+ {
+  "fy_restated": 2017,
+  "line": "revenue_from_operations",
+  "as_first_reported": 51723,
+  "as_restated": 37365,
+  "delta": -14358,
+  "pct": -27.76,
+  "first_src": "[AR FY2017, Consolidated P&L, PDF p117]",
+  "restated_src": "[AR FY2018, Consolidated P&L, PDF p134]"
+ },
+ {
+  "fy_restated": 2017,
+  "line": "investment_income",
+  "as_first_reported": 23802,
+  "as_restated": 19806,
+  "delta": -3996,
+  "pct": -16.79,
+  "first_src": "[AR FY2017, Consolidated P&L, PDF p117]",
+  "restated_src": "[AR FY2018, Consolidated P&L, PDF p134]"
+ },
+ {
+  "fy_restated": 2017,
+  "line": "other_income",
+  "as_first_reported": 4550,
+  "as_restated": 4657,
+  "delta": 107,
+  "pct": 2.35,
+  "first_src": "[AR FY2017, Consolidated P&L, PDF p117]",
+  "restated_src": "[AR FY2018, Consolidated P&L, PDF p134]"
+ },
+ {
+  "fy_restated": 2017,
+  "line": "total_income",
+  "as_first_reported": 80075,
+  "as_restated": 61828,
+  "delta": -18247,
+  "pct": -22.79,
+  "first_src": "[AR FY2017, Consolidated P&L, PDF p117]",
+  "restated_src": "[AR FY2018, Consolidated P&L, PDF p134]"
+ },
+ {
+  "fy_restated": 2017,
+  "line": "employee_benefits",
+  "as_first_reported": 14149,
+  "as_restated": 11662,
+  "delta": -2487,
+  "pct": -17.58,
+  "first_src": "[AR FY2017, Consolidated P&L, PDF p117]",
+  "restated_src": "[AR FY2018, Consolidated P&L, PDF p134]"
+ },
+ {
+  "fy_restated": 2017,
+  "line": "total_expenses",
+  "as_first_reported": 47530,
+  "as_restated": 40939,
+  "delta": -6591,
+  "pct": -13.87,
+  "first_src": "[AR FY2017, Consolidated P&L, PDF p117]",
+  "restated_src": "[AR FY2018, Consolidated P&L, PDF p134]"
+ },
+ {
+  "fy_restated": 2018,
+  "line": "revenue_from_operations",
+  "as_first_reported": 47698,
+  "as_restated": 50720,
+  "delta": 3022,
+  "pct": 6.34,
+  "first_src": "[AR FY2018, Consolidated P&L, PDF p134]",
+  "restated_src": "[AR FY2019, Consolidated P&L, PDF p148]"
+ },
+ {
+  "fy_restated": 2018,
+  "line": "other_income",
+  "as_first_reported": 5324,
+  "as_restated": 2302,
+  "delta": -3022,
+  "pct": -56.76,
+  "first_src": "[AR FY2018, Consolidated P&L, PDF p134]",
+  "restated_src": "[AR FY2019, Consolidated P&L, PDF p148]"
+ },
+ {
+  "fy_restated": 2018,
+  "line": "total_expenses",
+  "as_first_reported": 42346,
+  "as_restated": 44602,
+  "delta": 2256,
+  "pct": 5.33,
+  "first_src": "[AR FY2018, Consolidated P&L, PDF p134]",
+  "restated_src": "[AR FY2019, Consolidated P&L, PDF p148]"
+ },
+ {
+  "fy_restated": 2018,
+  "line": "pat_attributable",
+  "as_first_reported": 71128,
+  "as_restated": 21475,
+  "delta": -49653,
+  "pct": -69.81,
+  "first_src": "[AR FY2018, Consolidated P&L, PDF p134]",
+  "restated_src": "[AR FY2019, Consolidated P&L, PDF p148]"
+ },
+ {
+  "fy_restated": 2018,
+  "line": "pat_total_ops",
+  "as_first_reported": 72453,
+  "as_restated": 70197,
+  "delta": -2256,
+  "pct": -3.11,
+  "first_src": "[AR FY2018, Consolidated P&L, PDF p134]",
+  "restated_src": "[AR FY2019, Consolidated P&L, PDF p148]"
+ },
+ {
+  "fy_restated": 2019,
+  "line": "total_expenses",
+  "as_first_reported": 48563,
+  "as_restated": 49861,
+  "delta": 1298,
+  "pct": 2.67,
+  "first_src": "[AR FY2019, Consolidated P&L, PDF p148]",
+  "restated_src": "[AR FY2020, Consolidated P&L, PDF p160]"
+ },
+ {
+  "fy_restated": 2024,
+  "line": "revenue_from_operations",
+  "as_first_reported": 139003,
+  "as_restated": 137104,
+  "delta": -1899,
+  "pct": -1.37,
+  "first_src": "[AR FY2024, Consolidated P&L, PDF p157]",
+  "restated_src": "[AR FY2025, Consolidated P&L, PDF p156]"
+ },
+ {
+  "fy_restated": 2024,
+  "line": "investment_income",
+  "as_first_reported": 20247,
+  "as_restated": 19711,
+  "delta": -536,
+  "pct": -2.65,
+  "first_src": "[AR FY2024, Consolidated P&L, PDF p157]",
+  "restated_src": "[AR FY2025, Consolidated P&L, PDF p156]"
+ },
+ {
+  "fy_restated": 2024,
+  "line": "other_income",
+  "as_first_reported": 2540,
+  "as_restated": 2773,
+  "delta": 233,
+  "pct": 9.17,
+  "first_src": "[AR FY2024, Consolidated P&L, PDF p157]",
+  "restated_src": "[AR FY2025, Consolidated P&L, PDF p156]"
+ },
+ {
+  "fy_restated": 2024,
+  "line": "total_income",
+  "as_first_reported": 161790,
+  "as_restated": 159588,
+  "delta": -2202,
+  "pct": -1.36,
+  "first_src": "[AR FY2024, Consolidated P&L, PDF p157]",
+  "restated_src": "[AR FY2025, Consolidated P&L, PDF p156]"
+ },
+ {
+  "fy_restated": 2024,
+  "line": "employee_benefits",
+  "as_first_reported": 20471,
+  "as_restated": 19906,
+  "delta": -565,
+  "pct": -2.76,
+  "first_src": "[AR FY2024, Consolidated P&L, PDF p157]",
+  "restated_src": "[AR FY2025, Consolidated P&L, PDF p156]"
+ },
+ {
+  "fy_restated": 2024,
+  "line": "total_expenses",
+  "as_first_reported": 110082,
+  "as_restated": 99040,
+  "delta": -11042,
+  "pct": -10.03,
+  "first_src": "[AR FY2024, Consolidated P&L, PDF p157]",
+  "restated_src": "[AR FY2025, Consolidated P&L, PDF p156]"
+ }
+]

@@ -1,0 +1,338 @@
+{
+ "fy": "2017",
+ "pdf_pages": 284,
+ "sections": {
+  "balance_sheet": [
+   116,
+   135,
+   204,
+   220,
+   221
+  ],
+  "profit_loss": [
+   117,
+   137,
+   205,
+   222
+  ],
+  "accounting_policies": [
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132
+  ],
+  "segment": [
+   88,
+   189,
+   262
+  ],
+  "related_party": [
+   39,
+   97,
+   106,
+   107,
+   203
+  ],
+  "contingent": [
+   124,
+   131,
+   189,
+   209,
+   216,
+   262
+  ],
+  "corp_governance": [
+   89,
+   110
+  ],
+  "remuneration": [
+   44,
+   48,
+   101
+  ],
+  "csr": [
+   32,
+   33,
+   34,
+   35,
+   53,
+   54,
+   60,
+   61,
+   75,
+   88,
+   103,
+   123
+  ],
+  "subsidiaries_aoc1": [
+   3
+  ]
+ },
+ "notes": {
+  "3": {
+   "title": "BOARD OF DIRECTORS",
+   "pdf_page": 5
+  },
+  "10": {
+   "title": "Company or their associates and agents as on cut-off",
+   "pdf_page": 12
+  },
+  "24": {
+   "title": "The ebidXchange platform pioneered the auction of multiple",
+   "pdf_page": 26
+  },
+  "26": {
+   "title": "President and Group Chief Information",
+   "pdf_page": 58
+  },
+  "29": {
+   "title": "Executive Director at Morgan Stanley India",
+   "pdf_page": 59
+  },
+  "1": {
+   "title": "INDIAN CLEARING CORPORATION LIMITED",
+   "pdf_page": 60
+  },
+  "2": {
+   "title": "MARKETPLACE TECHNOLOGIES PRIVATE LIMITED",
+   "pdf_page": 60
+  },
+  "4": {
+   "title": "BSE INVESTMENTS LIMITED",
+   "pdf_page": 60
+  },
+  "5": {
+   "title": "BSE SAMMAAN CSR LIMITED",
+   "pdf_page": 60
+  },
+  "6": {
+   "title": "INDIA INTERNATIONAL EXCHANGE (IFSC) LIMITED",
+   "pdf_page": 61
+  },
+  "7": {
+   "title": "INDIA INTERNATIONAL CLEARING CORPORATION",
+   "pdf_page": 61
+  },
+  "8": {
+   "title": "BSE CSR INTEGRATED FOUNDATION",
+   "pdf_page": 61
+  },
+  "9": {
+   "title": "CENTRAL DEPOSITORY SERVICES (INDIA) LIMITED",
+   "pdf_page": 61
+  },
+  "11": {
+   "title": "CDSL VENTURES LIMITED",
+   "pdf_page": 61
+  },
+  "12": {
+   "title": "CDSL INSURANCE REPOSITORY LIMITED",
+   "pdf_page": 61
+  },
+  "13": {
+   "title": "CDSL COMMODITY REPOSITORY LIMITED",
+   "pdf_page": 61
+  },
+  "14": {
+   "title": "BSE SKILLS LIMITED",
+   "pdf_page": 61
+  },
+  "15": {
+   "title": "BFSI SECTOR SKILL COUNCIL OF INDIA",
+   "pdf_page": 61
+  },
+  "17": {
+   "title": "Asia Index Private Limited",
+   "pdf_page": 61
+  },
+  "3.1": {
+   "title": "Strong brand recognition",
+   "pdf_page": 70
+  },
+  "3.2": {
+   "title": "Sound corporate governance and regulatory framework",
+   "pdf_page": 70
+  },
+  "3.3": {
+   "title": "Financial strength with diversified and stable sources",
+   "pdf_page": 70
+  },
+  "3.4": {
+   "title": "Big Data Implementation and expanding its scope",
+   "pdf_page": 70
+  },
+  "3.6": {
+   "title": "Augmentation of Trading Infrastructure",
+   "pdf_page": 72
+  },
+  "4.1": {
+   "title": "Industry activity levels decline",
+   "pdf_page": 72
+  },
+  "4.2": {
+   "title": "Regulatory changes impacts our ability to compete",
+   "pdf_page": 72
+  },
+  "4.3": {
+   "title": "Cybersecurity threats",
+   "pdf_page": 72
+  },
+  "5.1": {
+   "title": "India International Exchange (IFSC)",
+   "pdf_page": 73
+  },
+  "5.2": {
+   "title": "Collaboration with International Exchanges at GIFT City",
+   "pdf_page": 73
+  },
+  "72": {
+   "title": "BSE signed an agreement with The Stock Exchange of Mauritius",
+   "pdf_page": 74
+  },
+  "5.4": {
+   "title": "Diversify our product and service offerings and maintain",
+   "pdf_page": 74
+  },
+  "5.5": {
+   "title": "Strengthen our position as the Exchange of choice in",
+   "pdf_page": 74
+  },
+  "5.6": {
+   "title": "Focus on increasing our market share of derivative",
+   "pdf_page": 75
+  },
+  "5.7": {
+   "title": "Adoption of Open source technologies for transaction",
+   "pdf_page": 75
+  },
+  "6.1": {
+   "title": "Business Risks",
+   "pdf_page": 77
+  },
+  "6.2": {
+   "title": "Cyber Security",
+   "pdf_page": 78
+  },
+  "6.3": {
+   "title": "Regulatory & Compliance",
+   "pdf_page": 78
+  },
+  "9.1": {
+   "title": "Consolidated Performance",
+   "pdf_page": 80
+  },
+  "80": {
+   "title": "The consolidated total expenses (including exceptional items)",
+   "pdf_page": 82
+  },
+  "9.2": {
+   "title": "Standalone Performance",
+   "pdf_page": 82
+  },
+  "82": {
+   "title": "The standalone total expenses (including exceptional items)",
+   "pdf_page": 84
+  },
+  "9.3": {
+   "title": "Balance Sheet",
+   "pdf_page": 84
+  },
+  "9.4": {
+   "title": "Cash Flow",
+   "pdf_page": 87
+  },
+  "9.5": {
+   "title": "Segment-Wise Reporting",
+   "pdf_page": 88
+  },
+  "9.6": {
+   "title": "Material Developments after Balance Sheet Date",
+   "pdf_page": 88
+  },
+  "88": {
+   "title": "All Directors, excluding Shri Ashishkumar Chauhan, MD & CEO,",
+   "pdf_page": 90
+  },
+  "96": {
+   "title": "The minutes of the meetings of the Committee are",
+   "pdf_page": 98
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 121
+  },
+  "44": {
+   "title": "DHFL Pramerica Fixed Duration Fund Series AE - Direct",
+   "pdf_page": 155
+  },
+  "16": {
+   "title": "Reliance Liquid Fund-Treasury Plan Direct -Daily Dividend",
+   "pdf_page": 159
+  },
+  "19": {
+   "title": "Invesco India Ultra Short Term Fund - Direct-Daily Dividend",
+   "pdf_page": 159
+  },
+  "23": {
+   "title": "ICICI Prudential Interval Fund SR-VI-Annual Interval Plan",
+   "pdf_page": 163
+  },
+  "17.1": {
+   "title": "General reserve",
+   "pdf_page": 169
+  },
+  "17.2": {
+   "title": "Capital reserve",
+   "pdf_page": 169
+  },
+  "17.3": {
+   "title": "Securities premium",
+   "pdf_page": 169
+  },
+  "17.4": {
+   "title": "Settlement guarantee fund",
+   "pdf_page": 169
+  },
+  "17.5": {
+   "title": "Retained earnings",
+   "pdf_page": 169
+  },
+  "17.6": {
+   "title": "Disposal of partial interest in CDSL",
+   "pdf_page": 170
+  },
+  "29.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 176
+  },
+  "33.1": {
+   "title": "Finance Lease",
+   "pdf_page": 178
+  },
+  "33.2": {
+   "title": "Operating lease",
+   "pdf_page": 179
+  },
+  "40.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 191
+  },
+  "46.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 198
+  },
+  "42.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 266
+  }
+ },
+ "printed_map": null
+}

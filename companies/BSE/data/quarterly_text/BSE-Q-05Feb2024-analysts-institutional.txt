@@ -1,0 +1,1416 @@
+
+
+===== PDF PAGE 1 =====
+             
+                                                
+  
+Registered Oﬃce: BSE Limited, Floor 25, P J Towers, Dalal Street, Mumbai - 400 001, India. T: +91 22 2272 1234/33 | E: corp.comm@bseindia.com 
+www.bseindia.com | Corporate Identity Number : L67120MH2005PLC155188 
+ 
+ 
+ 
+BSE - PUBLIC 
+February 05, 2024 
+ 
+To, 
+Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, Plot No. C/1 
+G Block, Bandra-Kurla Complex, Bandra (E) 
+Mumbai – 400 051 
+ 
+ 
+Symbol: BSE                                  ISIN: INE118H01025 
+ 
+Sub: Investor Presentation – Q3 FY24 
+ 
+Dear Madam/Sir, 
+ 
+With reference to above captioned subject, please find attached herewith Investor Presentation 
+– Q3 FY24. 
+ 
+This intimation is also being made available on the website of the Company at www.bseindia.com    
+ 
+This is for your information and record. 
+ 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For BSE Limited 
+ 
+ 
+ 
+Vishal Bhat 
+Company Secretary and Compliance Officer 
+Encl: a/a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PDF PAGE 2 =====
+INVESTOR 
+PRESENTATION
+Q3 FY24BSE - PUBLIC
+
+===== PDF PAGE 3 =====
+This presentation and the discussion may contain certain words or phrases that are forward - looking statements, which are tentative, based on 
+current expectations of the management of BSE Limited or any of its subsidiaries and associate companies (“BSE”).  Actual results may vary 
+significantly from the forward-looking statements contained in this presentations due to various risks and uncertainties. These risks and 
+uncertainties include competitive landscape, stakeholders' preferences, effect of economic and political conditions in India and outside India, 
+volatility in interest rates and in the securities market, new regulations and Government policies that may impact the businesses of BSE as well as 
+the ability to implement its strategy. 
+The information contained herein is as of the date referenced and BSE does not undertake any obligation to update these statements. BSE has 
+obtained all market data and other information from sources believed to be reliable or are its internal estimates, although its accuracy or 
+completeness cannot be guaranteed. Competition numbers are based on published results and management analysis. For the purpose of 
+comparison, following stock exchanges are considered – National Stock Exchange of India Limited, Metropolitan Stock Exchange of India Limited, NSE 
+IFSC Limited, Indian Commodity Exchange Limited, Multi Commodity Exchange of India Ltd and MF Utilities India Pvt Ltd. The presentation relating to 
+financial performance herein is reclassified/regrouped based on Management estimates and may not directly correspond to published data. The 
+numbers have also been rounded off in the interest of easier understanding. Prior period figures have been regrouped/reclassified wherever 
+necessary. All information in this presentation has been prepared solely by the company and has not been independently verified by anyone else. 
+This presentation is for information purposes only and does not constitute an offer or recommendation to buy or sell any securities of BSE. Any 
+action taken by you on the basis of the information contained herein is your responsibility alone and BSE or its directors or employees will not be 
+liable in any manner for the consequences of such action taken by you. 
+The distribution of this document in certain jurisdictions may be restricted by law and persons into whose possession this presentation comes should 
+inform themselves about, and observe, any such restrictions. 
+Disclaimer
+2
+BSE - PUBLIC
+
+===== PDF PAGE 4 =====
+Index
+About BSE1.
+Business
+Key Growth Drivers & Other Initiatives
+Financial Highlights & Investor Information
+2.
+4.
+3.
+3
+BSE - PUBLIC
+
+===== PDF PAGE 5 =====
+Name Bio Name Bio
+Shri Pramod 
+Agarwal
+Chairman & 
+Public Interest 
+Director 
+On BSE Board 
+since 2024
+◼Three decades of administrative experience as 
+IAS Officer in varied fields at State and Central 
+levels
+◼Former CMD of Coal India Limited
+◼Worked as Joint Secretary in the Department of 
+Disinvestment, Ministry of Finance, Government 
+of India.
+Justice Shiavax Jal 
+Vazifdar
+Public Interest 
+Director
+On BSE Board since 
+2022
+◼Retired Chief Justice of the Punjab & Haryana 
+High
+◼Practiced as advocate in the Bombay High 
+Court
+◼Appointed Additional Judge of High Court in 
+2001
+Shri Sundararaman 
+Ramamurthy 
+Managing Director 
+& CEO
+Took charge in Jan 
+2023
+◼Diverse experience of 38+ years in Indian financial 
+and banking system
+◼Prior to joining BSE, he was the MD & COO in 
+Indian arm of Bank of America 
+◼Senior member of NSE since its inception, where 
+he was responsible for significant transformation 
+of the Indian capital markets for over 20 years
+About BSE – Board & Management Team
+Board of Directors
+4
+Shri Umakant 
+Jayaram
+Public Interest 
+Director
+On BSE Board 
+since 2019
+◼28 years Cross functional experience in Global 
+Investment Banking, Finance Planning & 
+Analysis, Risk Consulting / Business 
+transformation
+Shri David 
+Wright
+Public Interest 
+Director
+On BSE Board 
+since 2018
+◼Former General Secretary of IOSCO (2012-
+2016), former Deputy Director-General for 
+Securities and Financial Markets at the EU 
+Commission.
+◼From March 2000 – October 2010 he was first 
+Director, then Deputy Director-General for 
+securities and financial markets
+BSE - PUBLIC
+
+===== PDF PAGE 6 =====
+Name Bio Name Bio
+Sushri  
+Jayshree Vyas
+Public Interest 
+Director
+On BSE Board 
+since 2019
+◼Managing Director, Shree Mahila Sewa 
+Sahakari  Bank, Ahmedabad 
+◼In the year 2001, financial literacy programme 
+was introduced in Sewa Bank, first of its kind 
+in India – at initiative of  Ms. Jayshree Vyas
+Prof. Subhasis 
+Chaudhuri
+Public Interest 
+Director
+On BSE Board since 
+2022
+◼Director of IIT Bombay and K.N. Bajaj Chair 
+Professor, Dept. of Electrical Engineering
+◼He has 110 journal publications and over 240 
+conference presentations, has authored 7 
+monographs and 13 National/International 
+Patents
+Shri T. C. Suseel 
+Kumar
+Shareholder’s 
+Director
+On BSE Board since 
+2020
+◼Former Managing Director of Life Insurance 
+Corporation of India  since March 2019
+◼Played a key role in redefining the business 
+proposition of the Corporation that earned the 
+LIC ‘Best Life Insurer Award’ by many leading 
+agencies during the year 19-20
+Dr. Padmini 
+Srinivasan
+Public Interest 
+Director
+On BSE Board since 
+2023
+◼Faculty in the Finance and Accounting Area at the 
+Indian Institute of Management, Bangalore (IIMB)
+◼Chairperson Centre for Corporate Governance 
+and Citizenship.
+◼PhD from the National Law School of India, Fellow 
+member of the ICAI, and an Associate Member of 
+the ICSI
+About BSE – Board & Management Team
+Board of Directors
+5
+BSE - PUBLIC
+
+===== PDF PAGE 7 =====
+Shri Deepak Goel
+Chief Financial 
+Officer
+With BSE since 
+2023
+◼Qualified Chartered Accountant, with experience of
+over two decades
+◼Earlier worked as CFO & Compliance Officer of Kotak
+Mahindra Investments and handled varied roles with
+Kotak Bank group.
+◼Also worked in other organizations like Edelweiss,
+Bharti Airtel, GE-SBI Cards JV and AF Ferguson & Co.
+Shri Girish Joshi
+Chief Trading 
+Operations and 
+Listing Sales
+With BSE since 2010
+◼Worked with ICICI Bank Group for a decade in various
+areas like ICICIDirect.com, Treasury Mid Office,
+Regulatory Reporting and Monitoring at CFO office
+◼One of the earliest core team members involved in the
+set-up of NSE
+◼During 7 years at NSE he worked in Wholesale Debt
+Market and post trade functions
+Shri Sameer Patil
+Chief Business Officer
+With BSE since 2015
+◼Instrumental in setting up and responsible for Business
+Development of INDIA INX at GIFT CITY IFSC
+◼More than 2 decades of experience in capital market
+segments such as Commodities, Currency, Indices etc.
+◼Experienced in Trading & Hedging Strategies, Product
+Design and Business Development
+◼Associated with MCX during inception for more than a
+decade as Senior Vice President
+Name Bio Name Bio
+Smt Kamala K
+Chief Regulatory 
+Officer
+With BSE since 2023
+◼Three decades of wide experience with Market
+Intermediaries in areas including risk, operations,
+compliance, regulations and governance
+◼Prior to joining BSE, she was Dy. COO at Edelweiss
+Financial Services.
+◼She has also worked with NSE, IL&FS investmart among
+others etc.
+About BSE – Board & Management Team
+Management Team
+Shri Subhash Kelkar
+Chief Information 
+Officer
+With BSE since 2023
+◼Worked with ICICI Securities, CMS, IIFL & Club Mahindra
+prior to joining BSE.
+◼More than 3 decades of extensive technology and service
+industry in various strategic and leadership roles.
+◼Expert in creating and implementing Tech Strategy,
+website/mobile applications design & development, data
+analytics, infrastructure & cloud migrations as also
+cybersecurity.
+ 6
+Shri Khushro 
+Bulsara
+Chief Risk Officer
+With BSE since 1996
+◼Experience of over three decades, has worked in several
+departments of the Exchange such as Surveillance,
+Inspection, Clearing & Settlement, Debt, Derivatives,
+Mutual Fund business and Listing Compliance.
+◼Responsible for setting up the Exchange’s popular
+Mutual Fund platform called StAR MF in 2009
+◼He also heads the Investors Protection Fund of BSE
+BSE - PUBLIC
+
+===== PDF PAGE 8 =====
+About BSE Business – Overview
+BSE at a Glance
+Market Capitalization of 
+BSE Listed Companies
+USD 4.3 trillion
+Registered 
+Investors
+159 million+ Rs. 66,425 million
+Equity Cash 
+ADTV (Q3 FY24)
+Members 
+Registered
+1,281
+Mutual Funds 
+Registered
+42
+Mutual Funds 
+Transactions (Q3 FY24)
+109.9 million
+Cities 
+covered
+714
+Mutual Fund 
+Distributors
+76,200
+EQD - Highest Single 
+Day Turnover
+Insurance Premium 
+(9M FY24)
+Rs. 302 trillion
+Rs. 355 million
+EQD – Total Contracts 
+Traded
+5.44 billion
+EQD – ADTV
+ (Q3 FY24)
+Rs. 46.2 trillion
+Funds 
+Mobilized (9M FY24)
+Rs. 11.9 Trillion
+Consolidated EPS – 
+9M FY24
+Cons. Net Worth – 
+9M FY24
+Cons. Revenue – 
+9M FY24
+Rs. 10,696 million
+Cons. EBITDA –
+9M FY24
+Cons. Net Margin – 
+ 9M FY24
+Rs. 4,716 million 28%Rs. 22.11 Rs. 31,945 million
+Note: EQD = Equity Derivatives data is for relaunch period till Dec-23 7
+BSE - PUBLIC
+
+===== PDF PAGE 9 =====
+^India International Bullion Exchange IFSC Limited is a wholly owned subsidiary of 
+India International Bullion Holding IFSC Limited
+*CDSL Ventures Ltd, CDSL Insurance Repository Ltd. & CDSL Commodity Repository 
+Limited are Group companies of CDSL
+Indian 
+Clearing 
+Corporation 
+Limited 
+BSE 
+Investments 
+Limited
+BSE 
+Technologies 
+Private 
+Limited 
+BSE CSR 
+Integrated 
+Foundation 
+BSE 
+Administration 
+& Supervision 
+Limited
+BFSI Sector 
+Skill Council 
+of India
+100 100 100
+BSE Tech Infra 
+Services Private 
+Limited  
+100
+BSE EBIX 
+Insuretech 
+Private Limited  
+40
+BSE Institute 
+Limited 
+BSE Institute of 
+Research 
+Development & 
+Innovation   
+100
+BIL – Ryerson 
+Technology Startup 
+Incubator Foundation   
+51
+India 
+International 
+Exchange 
+Limited 
+India INX Global 
+Access IFSC Limited 
+100
+India International 
+Bullion Holding IFSC 
+Limited^
+10
+India 
+International 
+Clearing 
+Corporation 
+Limited 
+India 
+International 
+Bullion Holding 
+IFSC Limited^
+10
+Joint Venture
+Asia Index Pvt Ltd 
+50
+BSE EBIX Insurance 
+Broking Private 
+Limited  
+40
+Hindustan Power 
+Exchange Limited  
+22.62
+Open Network for 
+Digital Commerce 
+8.51
+BSE E-Agricultural 
+Markets Limited 
+37.50
+Central 
+Depository 
+Services 
+(India) 
+Limited*
+CDSL Commodity 
+Repository Limited
+24
+60.53 62.511551.22100100100
+Holding as on December 31, 2023
+About BSE Business – Overview
+BSE Group
+8
+BSE - PUBLIC
+
+===== PDF PAGE 10 =====
+• Equity
+• Debt
+• Equity Derivatives
+• Currency Derivatives
+• Commodity Derivatives
+• SME & Startups
+• Interest Rate Futures
+• Spot Markets
+• Mutual Funds
+• Book-building services 
+for IPO
+• Offer to Buy
+• Offer for Sell
+• New Bond platform
+• Insurance
+• Equity Listing
+• Listing of Debt Securities
+• Mutual Fund Listing
+• Listing of Commercial 
+Papers
+• Data feed 
+• Index Services
+• Software Services
+• Training Services
+Trading &
+Clearing
+Distribution
+Services to 
+Corporates
+Other Services
+About BSE Business – Overview
+Diversified Lines of Business ..
+9
+BSE - PUBLIC
+
+===== PDF PAGE 11 =====
+About BSE Business – Overview
+..Reflected in Revenue Stream
+10
+1660
+895
+267
+469 478
+546
+986
+867
+301
+573
+468 475
+631
+749
+242 218 262
+348
+Transaction
+Charges
+Services To
+Corporates
+Other
+Revenue
+Treasury
+Income
+Other
+Securities
+Services
+Income From
+Investments
+Consolidated (₹ million)
+Dec’23
+ Sept’23
+ Dec’22
+1784
+895
+106
+412
+67
+1092
+867
+107
+624
+80
+699 749
+93
+263
+63
+Securities
+Services
+Services To
+Corporates
+Data
+Dissemination
+Fees
+Income From
+Investments
+Other Income
+Standalone (₹ million)
+Dec’23
+ Sept’23
+ Dec’22
+BSE - PUBLIC
+
+===== PDF PAGE 12 =====
+Index
+About BSE1.
+Business
+Key Growth Drivers & Other Initiatives
+Financial Highlights & Investor Information
+2.
+4.
+3.
+11
+BSE - PUBLIC
+
+===== PDF PAGE 13 =====
+Over 700+ scrips available at 1 paise tick size
+Available only at BSE
+Tighter Bid-Ask Spreads
+Buy and sell at better prices & reduce impact cost
+Hedge risks with Sensex and Bankex
+Lower lot size for S&P BSE Sensex & S&P BSE Bankex
+Unique Friday/Monday Expiry as compared to traditional Thursday
+Competitive transaction charges
+10 Paise Strike Intervals available only at BSE
+Additional Strike Intervals of 10 Paise for USDINR Contracts
+61 CE & 61 PE contracts for trade
+Reduced strike price increases flexibility for investors 
+Business – Segment Update
+Product Differentiation at BSE
+12
+BSE - PUBLIC
+
+===== PDF PAGE 14 =====
+Business – Segment Update
+Equity Cash - Performance
+13
+31,274 
+26,757 
+41,971 
+53,961 
+41,320 
+43,458 
+55,422 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Average Daily Turnover (₹ million)
+458 467 
+616 
+891 
+705 
+543 
+759 
+351 211 
+390 
+1,130 
+820 
+648 
+931 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Transaction Charges Income (₹ million)
+Normal Rate
+ Special Rate
+809
+678
+2,021
+1,006
+1,525
+1,191
+1,690
+BSE - PUBLIC
+
+===== PDF PAGE 15 =====
+Business – Segment Update
+Equity Derivatives – Performance
+14
+w.e.f 1st Nov 23, BSE has moved to slab-based structure for Sensex Options and Bankex Options BSE continues to charges at Rs.500/ crore of premium turnover
+Note: BSE Equity Derivatives was relaunched on May 15, 2023
+17,069 9,98,214 43,57,678 
+1,05,56,529 
+2,64,24,991 
+3,28,29,853 
+3,51,92,678 
+7,11,41,057 
+May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23
+AD T/o (Rs. Mn)
+22 744 3,017 6,163 
+14,258 
+18,527 18,041 
+40,313 
+May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23
+AD Premium T/o (Rs. Mn)
+0.03 1.6 6.6 
+16.2 
+39.8 
+50.2 53.5 
+99.5 
+May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23
+ADT (Vol. in Mn)
+0.0 1.6 6.3 13.6 28.5 37.1 
+187.4 
+342.0 
+May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23
+Total Revenue (Rs. Mn)
+BSE - PUBLIC
+
+===== PDF PAGE 16 =====
+Business – Segment Update
+Currency Derivatives – Performance
+1,31,954 1,17,404 
+84,910 
+1,23,502 
+1,85,693 1,88,725 
+1,00,213 
+1.89 
+1.65 
+1.14 
+1.65 
+2.30 2.36 
+1.21 
+ -
+ 0.50
+ 1.00
+ 1.50
+ 2.00
+ 2.50
+ -
+ 20,0 00
+ 40,0 00
+ 60,0 00
+ 80,0 00
+ 1,00 ,000
+ 1,20 ,000
+ 1,40 ,000
+ 1,60 ,000
+ 1,80 ,000
+ 2,00 ,000
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Futures
+ADTV (In Rs. Mn) Avg Daily Contracts Traded (Mn)
+1,70,608 1,57,628 
+1,24,223 1,43,214 
+70,302 88,193 
+7,968 
+2.46 
+2.24 
+1.68 
+1.92 
+0.88 
+1.11 
+0.10 
+ -
+ 20,0 00
+ 40,0 00
+ 60,0 00
+ 80,0 00
+ 1,00 ,000
+ 1,20 ,000
+ 1,40 ,000
+ 1,60 ,000
+ 1,80 ,000
+ -
+ 0.50
+ 1.00
+ 1.50
+ 2.00
+ 2.50
+ 3.00
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Options
+ADTV (In Rs. Mn) Avg Daily Contracts Traded (Mn)
+75 
+68 
+56 
+62 
+97 
+63 
+98 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Transaction Charges Income (₹ million)
+56%
+15
+BSE - PUBLIC
+
+===== PDF PAGE 17 =====
+161.76
+Million
+Registered Investors
+Mutual Funds Registered
+Schemes Available
+Network of Distributors
+ Cities/towns covered
+42
+71476,200
+Data as on Dec 31, 2023
+11,208
+Business – Segment Update
+BSE StAR Mutual Fund Platform – Pan-India Reach & Coverage
+16
+BSE - PUBLIC
+
+===== PDF PAGE 18 =====
+Business – Segment Update
+BSE StAR Mutual Fund Platform – Performance 
+17
+36 
+57 
+94 
+185 
+265 
+187 
+289 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Number of Orders - Mutual Fund (million)
+55%
+290
+447 
+341 
+504 
+786 
+549 
+860 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23  9M FY23  9M FY24
+Mutual Fund Revenue (₹ million)
+57%
+BSE - PUBLIC
+
+===== PDF PAGE 19 =====
+1,881 1,880 1,855
+2,202
+2,328
+Business – Segment Update
+Services to Corporates - Performance
+18
+1,461 1,580 1,520 1,559 1,688 
+1,256 
+1,414 
+420 300 335 
+643 
+640 
+464 
+534 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Listing Fees (₹ million)
+Annual Listing Fee
+ Listing processing and Other Listing fees
+1,720
+1,948
+252 240
+400
+658
+576
+150 182 
+345 
+560 
+447 
+310 
+382 102 58 
+55 
+98 
+129 
+106 
+143 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Book Building & Other Services (₹ million)
+Book Building Fees
+ Other Services Fees
+416
+525
+BSE - PUBLIC
+
+===== PDF PAGE 20 =====
+INDIA INX
+ INDIA INX – Global Access
+A well-diversified portfolio of financial services and products to 
+compete internationally
+Access to 135+ global exchanges and products across the US, Asia-
+Pacific and Europe, via a single integrated terminal
+Equity Index Derivatives
+Equity Stock Derivatives
+Commodity Derivatives
+Currency Derivatives
+Debt
+Foreign Currency Bonds
+Masala Bonds
+Sustainable Bonds
+Corporate Bonds
+Sovereign Bonds
+Colocation Services
+Real Time Data
+India INX, BSE’s international arm, commenced its trading activities on January 16,2017 and is India’s first International Exchange set up at GIFT IFSC
+It is one of the world’s most advanced technology platforms with a response time of 4 micro-seconds and allows trading for 22 hours a day
+100 % subsidiary of India INX, a subsidiary of BSE Ltd
+Invest in more than 30,000 stocks across 33 countries and more than 80 
+global portfolios of renowned international portfolio managers with a 
+minimum of $100
+Month Companies Traded Number of Trades Value ($ '000)
+Jul-23 393 7,337 2,13,278 
+Aug-23 436 6,696 57,755 
+Sep-23 419 8,214 33,730 
+Oct-23 1,543 18,413 62,021 
+Nov-23 334 10,595 54,614 
+Dec-23 372 8,508 4,75,555 
+Business – Segment Update
+BSE @ International Financial Hub
+19
+54 
+174 
+490 
+585 
+706 
+774 
+80 
+FY18-19 FY19-20 FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Average Daily Number of Contracts Traded  (in thousands)
+BSE - PUBLIC
+
+===== PDF PAGE 21 =====
+Premium collected has grown by 115% in 9MFY24 as compared to 9MFY23
+ Present in all key Insurance verticals  – Motor, Health, Life & Commercial
+Business – Segment Update
+BSE Ebix Insurance Broking
+20
+5,806 
+7,259 
+15,480 
+8,793 
+19,179 
+ FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Total Policies Collected
+118%
+45 
+120 
+243 
+165 
+355 
+ FY20-21 FY21-22 FY22-23 9M FY23 9M FY24
+Total Premium Collected (₹ million)
+115%
+BSE - PUBLIC
+
+===== PDF PAGE 22 =====
+Launched BSE E-Agricultural 
+Markets Ltd. (BEAM),  an electronic 
+spot platform for agriculture 
+commodities on December 11, 
+2020
+ 
+Products include:
+Cereals and Pulses, Oil and 
+Oilseeds, Fibres, Sugar, Dry fruits, 
+Spices and Condiments, Dairy and 
+Dairy products
+Has enrolled 1,578 members and 
+executed Trades more than Rs. 1000  
+crores in agri and steel segments in 
+9M FY24
+MoUs and Agreements with 
+Government and Government 
+enterprises, Farmer Producer 
+Organizations, Corporate having 
+interest in Commodities, Farmers 
+and FPOs 
+Business – Segment Update
+BSE E- Agricultural Markets Limited (BEAM) – Introduction
+21
+BSE - PUBLIC
+
+===== PDF PAGE 23 =====
+Data for the Q3 FY24
+Source: BSE/WFE/FIA
+MARKET CAPITALIZATION 7TH HIGHEST WITH US$ 4.3 Trillion
+INDEX OPTIONS VOLUME 2nd LARGEST WITH 4,118 Million Contracts Traded
+NUMBER OF LISTED COMPANIES HIGHEST - 5,318 Companies
+CURRENCY OPTIONS TRADED VOLUME 7th LARGEST WITH 1.4 Million
+CURRENCY FUTURES TRADED VOLUME 6th LARGEST WITH 40.6 Million
+BSE
+Business
+Global Rankings
+22
+BSE - PUBLIC
+
+===== PDF PAGE 24 =====
+All Market share for Q3 FY24
+1 Market share in SME Segment represents number of companies listed in SME segment as on Dec 31, 2023
+2 Market share in BSE Bond & Debt listing (PPDI) is based on the number of issues
+Red Ocean Businesses
+ Blue Ocean Businesses
+Market leadership in Blue Ocean Businesses
+Established leader in Listing related Business
+21
+Business
+Market Share
+23
+3.7%
+53.4%
+70.6%
+89.5%
+INDIA INX SME BSE BOND StAR MF
+7.6%
+12.1%
+15.7%
+70.1%
+76.0%
+Equity Cash Equity Derivatives Currency Futures Companies/
+Securities Listed
+Debt Listing
+BSE - PUBLIC
+
+===== PDF PAGE 25 =====
+About BSE1.
+Business
+Key Growth Drivers & Other Initiatives
+Financial Highlights & Investor Information
+2.
+4.
+3.
+Index
+24
+BSE - PUBLIC
+
+===== PDF PAGE 26 =====
+Key Growth Drivers & Other Initiatives
+Key Milestones – The transformation over time
+1875 - 2011
+2012 - 2015
+2016 - 2017
+2020 - 2023
+• Started as The Native Share & 
+Stockbroker's Association
+• BSE corporatized
+• Launch of StAR MF • Launch of SME Platform
+• Launch of Currency Derivatives
+• Launch of Interest Rate Derivatives
+• Launch of New Debt segment
+• Becomes the fastest exchange in the 
+world - speed of 6 micro-seconds
+• Trading of Sovereign Gold Bonds commenced
+• Launch of “BSE–BOND”- Electronic Book 
+Mechanism
+• Launch of India International Exchange (IFSC) 
+Ltd
+• First listed exchange in India
+• Launch of Commodity Derivatives
+• JV with Ebix  Inc for insurance broking 
+business
+• JV with PTC and ICICI Bank to set up a 
+power exchange
+• Launch of StAR MF mobile application• Beta-launch of services by BSE Ebix Insurance
+• Launch of Commodity Options
+• Launch of “BSE E-Agricultural Markets. (BEAM)”
+• Launch of BASL
+• Commencement of Power Trading by HPX
+• Launch of EGR
+• T+1 Settlement
+• Relaunch of Sensex & Bankex Derivatives on 
+15th May 2023
+2023 
+onwards
+2018 - 2019
+25
+BSE - PUBLIC
+
+===== PDF PAGE 27 =====
+01 02 03
+• Focussed to increase market-share 
+across all segments
+• Market is growing vastly in terms of 
+number of registered investors and 
+turnover
+• Increasing disposable household 
+incomes and preference for financial 
+savings – an advantage
+• Focus on innovation and launch of 
+unique products across segments
+• Savings in cost and convenience
+• Strong network of intermediaries
+• Good network connectivity across 
+country 
+• Increasing household incomes and 
+financial savings
+• StAR MF Plus - a premium platform for 
+distributors and advisors
+• Supports Demat & Non-Demat 
+transactions
+• Purchase/Redeem/SIP/Switch Mutual 
+Funds without filling lengthy forms
+• Expansion of services from current e-
+platforms like book-building for IPO, 
+Offer to Buy, Offer for Sell, New Bond 
+platform, etc.
+• Leadership position in Fund-raising for 
+India Inc. across all segments 
+including Equity, Bonds, Commercial 
+papers etc.
+Trading Segments
+ Mutual Fund
+ Platform Services
+Key Growth Drivers & Other Initiatives
+Key Growth Drivers – Existing Business
+26
+BSE - PUBLIC
+
+===== PDF PAGE 28 =====
+About BSE1.
+Business
+Key Growth Drivers & Other Initiatives
+Financial Highlights & Investor Information
+2.
+4.
+3.
+Index
+27
+BSE - PUBLIC
+
+===== PDF PAGE 29 =====
+Transaction Charges
+◼ To an extent 
+linked to Market 
+Activity
+◼ Linked to market activity levels and household savings and investments
+Treasury Income on Clearing and 
+Settlement Funds
+◼ Linked to Market 
+Activity to an 
+Extent
+◼ Linked to interest rates and, to an extent, market activity since that would lead to more margin being 
+deposited by members
+Other Securities Services ◼ Recurring ◼ Primarily consists of charges recovered from members for network connectivity
+Services to Corporates ◼ Recurring
+◼ Mostly derived from listing income that is not impacted by market activity
+◼ Dependent on number of listed entities and hence is a recurring revenue stream
+◼ Potential for increase if amount charged is increased
+Data Dissemination Fees ◼ Recurring
+◼ Impacted primarily due to level of subscriptions and revision in pricing policies
+◼ Contributes only 4-5% in India compared to 10-25% in developed markets
+Income From Investments and 
+Deposits
+◼ Recurring ◼ Linked to investment yields
+Other Income ◼ Recurring ◼ Mostly derived from rent and training institute etc., which are stable sources of income
+Multiple contact points with members and market participants provides the ability to generate revenue from multiple levels of the business
+1
+2
+3
+4
+5
+6
+7
+Linked to Market Activity Recurring
+Primary
+ Trading
+ Clearing & Settlement
+ Distribution
+Financial Highlights & Investor Information
+Integrated Business Model 
+28
+BSE - PUBLIC
+
+===== PDF PAGE 30 =====
+Financial Highlights & Investor Information
+Consolidated Profit & Loss
+(₹ in million)
+29
+Sr. No. Particulars
+Dec’23 Sept’23 Dec’22 9M 9M FY
+Quarter Quarter Quarter 2023-24 2022-23 2022-23
+1 Transaction Charges 1660 986 631 3307 1809 2,412
+2 Treasury Income on Clearing and Settlement Funds 469 573 218 1265 634 832
+3 Other Securities Services 478 468 262 1295 763 1,112
+4 Securities Services (1+2+3) 2,607 2,027 1,111 5,867 3,206 4,356
+5 Services To Corporates 895 867 749 2470 2136 2,904
+6 Other Operating Income 214 251 180 680 543 895
+7 Revenue From Operations (4+5+6) 3,716 3,145 2,040 9,017 5,885 8,155
+8 Income From Investments and Deposits 546 475 348 1461 774 1,093
+9 Other Income 53 50 62 218 166 291
+10 Total Income (7+8+9) 4,315 3,670 2,450 10,696 6,825 9,539
+11 Employee Expenses 530 541 442 1581 1378 1,802
+12 Technology Cost & Technology Program 300 355 316 1004 952 1,239
+13 Regulatory Expenses 1076 154 303 1380 970 1106
+14 Clearing House Expenses 444 200 80 694 287 253
+15 Admin, LES & Other Expenses 446 479 508 1321 1276 1,781
+16 Total Operating Expenses (11+12+13+14+15) 2,796 1,729 1,649 5,980 4,863 6,181BSE - PUBLIC
+
+===== PDF PAGE 31 =====
+Financial Highlights & Investor Information
+Consolidated Profit & Loss (cont’d)
+(₹ in million)
+30
+Sr. No. Particulars
+Dec’23 Sept’23 Dec’22 9M 9M FY
+Quarter Quarter Quarter 2023-24 2022-23 2022-23
+17 Operating EBITDA (7-16) 920 1,416 391 3,037 1,022 1,974
+18 Operating EBITDA Margin (17/7 in %) 25% 45% 19% 34% 17% 24%
+19 Non-operating Expenses 249 312 235 840 611 878
+20 Profit Before Tax, Exceptional Items And Share Of Associates (10-16-19) 1,270 1,629 566 3,876 1,351 2,480
+21 Exceptional Item – (net of tax of ₹ 391) 0 0 0 3,675 0 0
+22 Share of profits From Associates 165 190 141 474 401 492
+23 Tax Expenses 371 636 230 1,377 580 916
+24 Net Profit (20+21+22-23) 1,064 1,183 477 6,648 1,172 2,056
+25 Net Profit excluding exceptional item (20+22-23) 1,064 1,183 477 2,973 1,172 2,056
+26 Net Profit Margin (24/10 in %) 25% 32% 19% 62% 17% 22%
+27 Net Profit Margin (excluding exceptional item) (25/10 in %) 25% 32% 19% 28% 17% 22%
+28 Net Profit Attributable To Shareholders 1,082 1,205 516 6,712 1,296 2,207
+29 Net Profit Attributable To Shareholders (Excluding exceptional item) 1,082 1,205 516 3,037 1,296 2,207
+BSE - PUBLIC
+
+===== PDF PAGE 32 =====
+(₹ in million)
+Financial Highlights & Investor Information
+Standalone Profit & Loss
+31
+Sr. No. Particulars
+Dec’23 Sept’23 Dec’22 9M 9M FY
+Quarter Quarter Quarter 2023-24 2022-23 2022-23
+1 Securities Services 1784 1092 699 3626 2017 2,704
+2 Services To Corporates 895 867 749 2469 2136 2,904
+3 Data Dissemination Fees 106 107 93 321 280 388
+4 Revenue From Operations (1+2+3) 2,785 2,066 1,541 6,416 4,433 5,996
+5 Income From Investments And Deposits 412 624 263 1375 873 1,098
+6 Other Income 67 80 63 283 189 330
+7 Total Income (4+5+6) 3,264 2,770 1,867 8,074 5,495 7,424
+8 Employee Expenses 291 295 223 847 719 928
+9 Technology Cost & Technology Program 419 398 382 1222 1156 1,509
+10 Regulatory Expenses 161 153 139 462 420 556
+11 Clearing House Expenses 637 402 203 1218 603 617
+12 Admin, LES & Other Expenses 218 198 296 608 724 948
+13 Total Operating Expenses (8+9+10+11+12) 1,726 1,446 1,243 4,357 3,622 4,558
+BSE - PUBLIC
+
+===== PDF PAGE 33 =====
+(₹ in million)
+Financial Highlights & Investor Information
+Standalone Profit & Loss (cont’d)
+32
+Sr. No. Particulars
+Dec’23 Sept’23 Dec’22 9M 9M FY
+Quarter Quarter Quarter 2023-24 2022-23 2022-23
+14 Operating EBITDA (4-13) 1,059 620 298 2,059 811 1,438
+15 Operating EBITDA Margin (14/4 in %) 38% 30% 19% 32% 18% 24%
+16 Non-operating Expenses 198 176 143 540 327 490
+17 Profit Before Exceptional Item and Tax (7-13-16) 1,340 1,148 481 3,177 1,546 2,376
+18 Exceptional Item (net of tax ₹ 391) 0 0 0 4,651 0 0
+19 Tax Expenses 387 428 173 1,086 461 707
+20 Net Profit After Tax (17+18-19) 953 720 308 6,742 1,085 1,669
+21 Net Profit After Tax excluding exceptional item (17-19) 953 720 308 2,091 1,085 1,669
+22 Net Profit Margin (20/7 in %) 29% 26% 16% 84% 20% 22%
+23 Net Profit Margin excluding exceptional item (21/7 in %) 29% 26% 16% 26% 20% 22%
+BSE - PUBLIC
+
+===== PDF PAGE 34 =====
+2,408 
+1,302 
+1,921 
+3,335 3,359 
+1,961 
+4,714 
+FY 18-19 FY 19-20 FY 20-21 FY 21-22 FY 22-23 9M FY23 9M FY24
+Consolidated EBITDA
+6,124 
+5,421 5,651 
+7,240 7,424 
+5,495 
+8,074 
+1,959 
+821 973 
+1,951 1,669 
+1,085 
+2,091 
+32%
+15%
+17%
+27%
+22%
+20%
+26%
+0
+0.0 5
+0.1
+0.1 5
+0.2
+0.2 5
+0.3
+0.3 5
+0
+100 0
+200 0
+300 0
+400 0
+500 0
+600 0
+700 0
+800 0
+900 0
+FY 18-19 FY 19-20 FY 20-21 FY 21-22 FY 22-23 9M FY23 9M FY24
+Standalone Key Performance Indicators
+Total Revenue
+ Net Profit Net Margin
+6,875 6,300 6,547 
+8,635 
+9,539 
+6,825 
+10,696 
+1,942 
+886 1,417 
+2,449 2,057 
+1,172 
+2,973 
+28%
+14%
+22%
+28%
+22%
+17%
+28%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+ -
+ 2,00 0
+ 4,00 0
+ 6,00 0
+ 8,00 0
+ 10,0 00
+ 12,0 00
+FY 18-19 FY 19-20 FY 20-21 FY 21-22 FY 22-23 9M FY23 9M FY24
+Consolidated Key Performance Indicators
+Total Revenue
+ Net Profit Net Margin
+Financial Highlights & Investor Information
+Financial Overview 
+* Net profit & EPS from Continuing operation and excluding Gain from CDSL Stake Sale
+Post Bonus issue, earnings per share (EPS) for all periods presented have been adjusted and restated
+(₹ in million)
+(₹ in million) (₹ in million)
+(₹ in million)
+* Net profit & EPS from Continuing operation and excluding Gain from CDSL Stake Sale
+EPS 12.26 8.30 10.54 18.51 16.06 12.69 11.79 7.08 14.20 12.159.42 22.11 7.89 15.23
+33
+2,580 
+1,272 
+1,819 
+3,025 2,866 
+1,872 
+3,718 
+FY 18-19 FY 19-20 FY 20-21 FY 21-22 FY 22-23 9M FY23 9M FY24
+Standalone EBITDA
+BSE - PUBLIC
+
+===== PDF PAGE 35 =====
+#Dividend pay-out ratio is calculated based on Standalone Profit excluding gain on sale of strategic investment
+* Dividend paid on expanded capital post bonus of Rs 2 equity shares for every 1 share held, issued during the year FY 21-22
+Financial Highlights & Investor Information
+Financial Overview (cont’d)
+Financial 
+Year
+Dividend (Including 
+DDT) # (₹ million)
+Buyback (Incl transactions 
+cost & Tax)-(₹ million)
+Total
+(₹ million)
+2015-16 937 - 937 
+2016-17 765 - 765 
+2017-18 1,733 450 2,183 
+2018-19 2,255 1,230 3,485 
+2019-20 1,584 4,762 6,346 
+2020-21 779 - 779
+2021-22 962 - 962
+2022-23 1,851 - 1,851
+2023-24 1,649 93 1,742
+Total 12,515 6,535 19,050
+#Dividend Distribution Tax 34
+29,286 
+24,251 24,924 26,545 27,012 26,115 
+31,945 
+FY 18-19 FY 19-20 FY 20-21 FY 21-22 FY 22-23 9M FY23 9M FY24
+Consolidated Net Worth (₹ million)
+26,262 
+21,650 21,872 22,872 22,690 22,108 
+27,646 
+FY 18-19 FY 19-20 FY 20-21 FY 21-22 FY 22-23 9M FY23 9M FY24
+Standalone Net Worth (₹ million)
+15
+28
+36
+30
+17
+21
+13.50 12
+74%
+93% 95% 97% 95% 99% 95% 99%
+0%
+20%
+40%
+60%
+80%
+100 %
+120 %
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23
+Dividend per share* (₹) & Pay-out Ratio
+ Dividend Per Share  Dividend Payout Ratio
+BSE - PUBLIC
+
+===== PDF PAGE 36 =====
+Business
+Shareholding Pattern 
+MARKET DATA
+Market Capitalization* (₹ Mn) 300,890
+Price* (₹) 2,221
+No. of Shares Outstanding 13,54,62,891
+Face Value (₹) 2.00
+Avg. Daily Trading Value# (₹ Mn) 3,689
+Avg. Daily Trading Volume# (Mn shares) 1.85
+52-week High-Low (₹) 2,595 – 406
+*Market data as of Dec 31, 2023
+#For the period of Oct 2023 to Dec 2023
+TOP 10 SHAREHOLDERS (As on Dec 31, 2023)  
+Life Insurance Corporation of India 5.60%
+Siddharth Balachandran 3.47%
+Zerodha Broking 2.16%
+Quant Mutual Fund 1.92%
+Tata AIA Life Insurance Co. Limited 1.77%
+Mukul Mahavir Agarwal 1.48%
+Invesco India 1.45%
+BNP Paribas Financial Markets 1.31%
+Motilal Oswal AMC 1.24%
+S Gopalkrishnan 1.18%
+35
+0
+500
+1000
+1500
+2000
+2500
+BSE Closing Price (Adjusted)
+Public, 39.0%
+Trading Members, 
+13.2%
+QIB, 8.3%
+Body Corporates, 
+9.9%
+FPI's & NRI's, 
+17.5%
+Mutual Funds, 
+8.2%
+AIF's, 1.3% Others, 2.7%
+BSE - PUBLIC
+
+===== PDF PAGE 37 =====
+INVESTOR RELATIONS CONTACT:
+Anand Sethuraman
+Head – Investor Relations
++91 22 2272 8229
+ bse.ir@bseindia.com
+THANK YOU
+BSE - PUBLIC

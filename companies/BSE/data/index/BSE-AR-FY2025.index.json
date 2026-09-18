@@ -1,0 +1,289 @@
+{
+ "fy": "2025",
+ "pdf_pages": 283,
+ "sections": {
+  "balance_sheet": [
+   155,
+   156,
+   220,
+   228
+  ],
+  "profit_loss": [
+   156,
+   157,
+   158,
+   229,
+   240
+  ],
+  "cash_flow": [
+   158,
+   159,
+   160,
+   230
+  ],
+  "accounting_policies": [
+   155,
+   156,
+   157,
+   158,
+   162,
+   163,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169
+  ],
+  "segment": [
+   72,
+   210,
+   270,
+   271
+  ],
+  "related_party": [
+   31,
+   51,
+   58,
+   77,
+   87,
+   197,
+   198,
+   204,
+   205,
+   206,
+   207,
+   208
+  ],
+  "contingent": [
+   162,
+   168,
+   171,
+   209,
+   210,
+   232,
+   236,
+   270
+  ],
+  "corp_governance": [
+   33,
+   89,
+   90,
+   91,
+   92,
+   93
+  ],
+  "remuneration": [
+   12,
+   13,
+   14,
+   23,
+   27,
+   38,
+   39,
+   44,
+   222
+  ],
+  "csr": [
+   5,
+   6,
+   29,
+   30,
+   42,
+   43,
+   82,
+   105,
+   114,
+   118,
+   146,
+   164
+  ],
+  "bsr": [
+   33
+  ],
+  "subsidiaries_aoc1": [
+   3,
+   4,
+   27
+  ]
+ },
+ "notes": {
+  "6": {
+   "title": "Record date for dividend",
+   "pdf_page": 19
+  },
+  "8": {
+   "title": "Number of",
+   "pdf_page": 25
+  },
+  "30": {
+   "title": "Follower numbers in lakhs",
+   "pdf_page": 31
+  },
+  "1": {
+   "title": "Shri Pramod Agrawal",
+   "pdf_page": 36
+  },
+  "2": {
+   "title": "Shri Umakant Jayaram",
+   "pdf_page": 36
+  },
+  "3": {
+   "title": "Shri Shamanna Balasubramanya",
+   "pdf_page": 36
+  },
+  "4": {
+   "title": "Sushri Jayshree Vyas",
+   "pdf_page": 36
+  },
+  "5": {
+   "title": "Shri Nandkumar Saravade",
+   "pdf_page": 36
+  },
+  "7": {
+   "title": "Shri Ramesh Gurram",
+   "pdf_page": 38
+  },
+  "31": {
+   "title": "Dvara Kshetriya Gramin Financial",
+   "pdf_page": 54
+  },
+  "16": {
+   "title": "Shri Sundararaman Ramamurthy",
+   "pdf_page": 83
+  },
+  "17": {
+   "title": "Annual General Meeting",
+   "pdf_page": 84
+  },
+  "18": {
+   "title": "Annual General Meeting",
+   "pdf_page": 84
+  },
+  "19": {
+   "title": "Annual General Meeting",
+   "pdf_page": 84
+  },
+  "10": {
+   "title": "National Stock",
+   "pdf_page": 102
+  },
+  "11": {
+   "title": "Indian Clearing Corporation Limited (ICCL)",
+   "pdf_page": 105
+  },
+  "15": {
+   "title": "Subsidiary",
+   "pdf_page": 105
+  },
+  "37": {
+   "title": "Investors",
+   "pdf_page": 106
+  },
+  "03": {
+   "title": "Value Chain",
+   "pdf_page": 106
+  },
+  "9": {
+   "title": "Material",
+   "pdf_page": 114
+  },
+  "12": {
+   "title": "Advancing",
+   "pdf_page": 115
+  },
+  "38": {
+   "title": "Topics / principles",
+   "pdf_page": 122
+  },
+  "0": {
+   "title": "Workers",
+   "pdf_page": 127
+  },
+  "46": {
+   "title": "Workers",
+   "pdf_page": 133
+  },
+  "14": {
+   "title": "Water intensity in terms of physical output",
+   "pdf_page": 137
+  },
+  "20": {
+   "title": "Waste intensity in terms of physical output",
+   "pdf_page": 139
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 162
+  },
+  "2.3": {
+   "title": "Summary of material accounting policies",
+   "pdf_page": 165
+  },
+  "15.1": {
+   "title": "General reserve",
+   "pdf_page": 190
+  },
+  "15.2": {
+   "title": "Capital reserve",
+   "pdf_page": 190
+  },
+  "15.3": {
+   "title": "Retained earnings",
+   "pdf_page": 190
+  },
+  "15.4": {
+   "title": "Foreign currency translation reserve",
+   "pdf_page": 190
+  },
+  "15.5": {
+   "title": "Share application money pending allotment",
+   "pdf_page": 190
+  },
+  "15.6": {
+   "title": "Liquidity Enhancement Scheme (LES) Reserve",
+   "pdf_page": 190
+  },
+  "15.7": {
+   "title": "Capital redemption reserve",
+   "pdf_page": 190
+  },
+  "29.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 197
+  },
+  "40.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 210
+  },
+  "44.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 216
+  },
+  "22": {
+   "title": "Trustees of Native",
+   "pdf_page": 224
+  },
+  "69": {
+   "title": "Trustees of the Native",
+   "pdf_page": 224
+  },
+  "23": {
+   "title": "Current liabilities",
+   "pdf_page": 228
+  },
+  "39.2": {
+   "title": "Information about geographical area",
+   "pdf_page": 270
+  },
+  "41.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 274
+  },
+  "64": {
+   "title": "Particulars",
+   "pdf_page": 274
+  }
+ },
+ "printed_map": null
+}

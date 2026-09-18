@@ -1,0 +1,415 @@
+{
+ "fy": "2019",
+ "pdf_pages": 313,
+ "sections": {
+  "balance_sheet": [
+   147,
+   235
+  ],
+  "profit_loss": [
+   148,
+   219,
+   226,
+   236,
+   252
+  ],
+  "accounting_policies": [
+   147,
+   148,
+   152,
+   153,
+   154,
+   155,
+   156,
+   157,
+   158,
+   159,
+   160,
+   161
+  ],
+  "segment": [
+   111,
+   215,
+   291
+  ],
+  "related_party": [
+   30,
+   115,
+   116,
+   123,
+   124
+  ],
+  "contingent": [
+   155,
+   163,
+   214,
+   240,
+   248,
+   291
+  ],
+  "corp_governance": [
+   128
+  ],
+  "remuneration": [
+   29,
+   40,
+   52
+  ],
+  "csr": [
+   9,
+   28,
+   40,
+   56,
+   66,
+   67,
+   120,
+   129,
+   130,
+   131,
+   138,
+   154
+  ],
+  "bsr": [
+   130
+  ],
+  "subsidiaries_aoc1": [
+   10,
+   30
+  ]
+ },
+ "notes": {
+  "2": {
+   "title": "AGM Notice",
+   "pdf_page": 11
+  },
+  "20": {
+   "title": "Additionally, Company being an Exchange, has also constituted",
+   "pdf_page": 29
+  },
+  "32": {
+   "title": "Company has a Vigil Mechanism and Whistle-blower policy under",
+   "pdf_page": 41
+  },
+  "15": {
+   "title": "Shri Subhash Desai,  Minister for Industries &",
+   "pdf_page": 43
+  },
+  "17": {
+   "title": "Shri Rajiv Kumar , Vice Chairman, NITI Aayog",
+   "pdf_page": 43
+  },
+  "18": {
+   "title": "Shri Amitabh Kant, Chief Executive Officer, NITI Aayog",
+   "pdf_page": 43
+  },
+  "19": {
+   "title": "Shri Ajay T yagi, Chairman, SEBI",
+   "pdf_page": 43
+  },
+  "22": {
+   "title": "Shri Haseeb Drabu,  Former Minister of Finance, Government",
+   "pdf_page": 43
+  },
+  "24": {
+   "title": "Shri Tanaji Mutkule, MLA, Hingoli Maharashtra",
+   "pdf_page": 43
+  },
+  "25": {
+   "title": "Shri Bonthu Rammohan,  Mayor, Hyderabad, GHMC",
+   "pdf_page": 43
+  },
+  "26": {
+   "title": "Shri Manoj Kumar Singh IAS, Principal Secretary, Urban",
+   "pdf_page": 43
+  },
+  "28": {
+   "title": "Shri Sunil Barthwal,  IAS, Chief PF Commissioner, EPFO",
+   "pdf_page": 43
+  },
+  "29": {
+   "title": "Shri Sushil Kumar Lohani IAS,  Additional Central PF",
+   "pdf_page": 43
+  },
+  "31": {
+   "title": "Shri Sanjeev Sanyal,  Principal Economic Adviser, Ministry of",
+   "pdf_page": 43
+  },
+  "33": {
+   "title": "Shri Subhash Chandra Garg,  Secretary, Department of",
+   "pdf_page": 43
+  },
+  "34": {
+   "title": "Ms Sujatha Srikumar , Consultant to Govt of UP",
+   "pdf_page": 43
+  },
+  "35": {
+   "title": "Shri Abhishek Trimukhe IPS, DCP , Mumbai Police",
+   "pdf_page": 43
+  },
+  "36": {
+   "title": "Shri Ranjit Kumar ,  Commissioner, GST, Patna-I",
+   "pdf_page": 43
+  },
+  "39": {
+   "title": "Air Marshal Ravinder Kumar Dhir , Air Officer Commanding-",
+   "pdf_page": 43
+  },
+  "41": {
+   "title": "Shri Rajan Bharti Mittal,  Vice-Chairman and Managing",
+   "pdf_page": 43
+  },
+  "42": {
+   "title": "Shri Abhishek Lodha, Managing Director and CEO, Lodha Group",
+   "pdf_page": 43
+  },
+  "44": {
+   "title": "Shri Shaur ya Doval, Director, India Foundation",
+   "pdf_page": 43
+  },
+  "45": {
+   "title": "Shri Mark Lippert,  Vice President, Boeing International",
+   "pdf_page": 43
+  },
+  "46": {
+   "title": "Shri Adil Zainulbhai, Chairman, Quality Council of India",
+   "pdf_page": 43
+  },
+  "48": {
+   "title": "Shri Shashi Shanker , Chairman and Managing Director, ONGC",
+   "pdf_page": 43
+  },
+  "49": {
+   "title": "Shri Vijay Shekhar Sharma, Chairman and Managing",
+   "pdf_page": 43
+  },
+  "50": {
+   "title": "Shri Rashesh Shah, Chairman and Chief Executive Officer,",
+   "pdf_page": 43
+  },
+  "51": {
+   "title": "Shri Raamdeo Agarawal, Joint Managing Director, Oswal Group",
+   "pdf_page": 43
+  },
+  "52": {
+   "title": "Shri Sanjay Nayar , Member and CEO, KKR India",
+   "pdf_page": 43
+  },
+  "53": {
+   "title": "Shri Rajiv Lall,  Founder MD & CEO, IDFC Bank",
+   "pdf_page": 43
+  },
+  "58": {
+   "title": "Shri Rajeev kumar , Secretary DFS, Ministry of Finance, India",
+   "pdf_page": 43
+  },
+  "62": {
+   "title": "Shri Sujay Banarji,  Member, IRDA",
+   "pdf_page": 43
+  },
+  "64": {
+   "title": "Shri Kaustubh Dhavse,  OSD, CMO Maharashtra",
+   "pdf_page": 43
+  },
+  "66": {
+   "title": "Shri Madhu Kannan,  Chief Business officer, India & Emerging",
+   "pdf_page": 43
+  },
+  "67": {
+   "title": "Shri Amit Kumar Jain, Chairman,WIRC",
+   "pdf_page": 43
+  },
+  "82": {
+   "title": "Shri Sujoy Bose,  CEO, National Investment and Infrastructure",
+   "pdf_page": 44
+  },
+  "83": {
+   "title": "Shri Samir Saran,  President, ORF",
+   "pdf_page": 44
+  },
+  "88": {
+   "title": "Shri Raza Murad,  Bollywood Actor",
+   "pdf_page": 44
+  },
+  "89": {
+   "title": "Bollywood Actor Shri Anupam P Kher",
+   "pdf_page": 44
+  },
+  "91": {
+   "title": "His Holiness Syedna Taher Fakhruddin Saheb",
+   "pdf_page": 44
+  },
+  "92": {
+   "title": "His Holiness Kenting Tai Situpa",
+   "pdf_page": 44
+  },
+  "97": {
+   "title": "Shri Mandar Apte, Singer",
+   "pdf_page": 44
+  },
+  "1": {
+   "title": "Indian Clearing Corporation Limited",
+   "pdf_page": 55
+  },
+  "3": {
+   "title": "BSE Institute Limited",
+   "pdf_page": 56
+  },
+  "4": {
+   "title": "BSE Investments Limited",
+   "pdf_page": 56
+  },
+  "5": {
+   "title": "BSE Sammaan CSR Limited",
+   "pdf_page": 56
+  },
+  "6": {
+   "title": "India International Exchange (IFSC) Limited",
+   "pdf_page": 56
+  },
+  "7": {
+   "title": "India International Clearing Corporation (IFSC)",
+   "pdf_page": 56
+  },
+  "8": {
+   "title": "INDIA INX Global Access IFSC Limited",
+   "pdf_page": 56
+  },
+  "9": {
+   "title": "Pranurja Solutions Limited",
+   "pdf_page": 56
+  },
+  "10": {
+   "title": "BSE CSR Integrated Foundation",
+   "pdf_page": 56
+  },
+  "11": {
+   "title": "Marketplace Tech Infra Services Private Limited",
+   "pdf_page": 56
+  },
+  "12": {
+   "title": "BFSI Sector Skill Council of India",
+   "pdf_page": 56
+  },
+  "14": {
+   "title": "Central Depository Services (India) Limited",
+   "pdf_page": 57
+  },
+  "16": {
+   "title": "CDSL Insurance Repository Limited",
+   "pdf_page": 57
+  },
+  "59": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 68
+  },
+  "61": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 70
+  },
+  "63": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 72
+  },
+  "65": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 74
+  },
+  "69": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 78
+  },
+  "71": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 80
+  },
+  "73": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 82
+  },
+  "75": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 84
+  },
+  "77": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 86
+  },
+  "79": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 88
+  },
+  "81": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 90
+  },
+  "85": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 94
+  },
+  "87": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 96
+  },
+  "93": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 102
+  },
+  "95": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 104
+  },
+  "99": {
+   "title": "Management Discussion & Analysis",
+   "pdf_page": 108
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 152
+  },
+  "15.1": {
+   "title": "Gener al reserve",
+   "pdf_page": 191
+  },
+  "15.2": {
+   "title": "Capital r eserve",
+   "pdf_page": 191
+  },
+  "15.3": {
+   "title": "Securities premium",
+   "pdf_page": 191
+  },
+  "15.4": {
+   "title": "Retained earnings",
+   "pdf_page": 191
+  },
+  "15.5": {
+   "title": "Disposal of partial inter est in CDSL",
+   "pdf_page": 191
+  },
+  "28.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 200
+  },
+  "31.1": {
+   "title": "Finance Lease",
+   "pdf_page": 203
+  },
+  "31.2": {
+   "title": "Operating lease",
+   "pdf_page": 203
+  },
+  "38.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 215
+  },
+  "46.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 223
+  },
+  "39.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 295
+  }
+ },
+ "printed_map": null
+}

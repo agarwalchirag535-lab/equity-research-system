@@ -1,0 +1,366 @@
+[
+  {
+    "unit": "W0_documents",
+    "wave": "0",
+    "desc": "Collect ARs, Prospectus/RHP, 5 concalls, 6 IPs, MARs, SoDs, quarterly, SHP XBRL, peers",
+    "gate": false,
+    "status": "verified",
+    "attempts": 1,
+    "last_error": null,
+    "deps": [],
+    "artifact": "data/source_register.md",
+    "note": "119 filings + 2 ARs + Prospectus + RHP + 5 SHP XBRL + 9 peer ARs. 4 gaps recorded."
+  },
+  {
+    "unit": "W1.7_newlisting",
+    "wave": "1.7",
+    "desc": "New-listing overlay: what a 13-month-old listing must be traced on. METHODOLOGY, no company judgement",
+    "gate": false,
+    "status": "verified",
+    "attempts": 1,
+    "last_error": null,
+    "deps": [
+      "W0_documents"
+    ],
+    "artifact": "waves/W1.7_newlisting_overlay.md"
+  },
+  {
+    "unit": "W1_docmap",
+    "wave": "1",
+    "desc": "Per-document index: AR FY25, AR FY26, Prospectus. Which note holds what; basis differences",
+    "gate": false,
+    "status": "verified",
+    "attempts": 1,
+    "last_error": null,
+    "deps": [
+      "W0_documents"
+    ],
+    "artifact": "waves/W1_docmap.md"
+  },
+  {
+    "unit": "W1_ledger",
+    "wave": "1",
+    "desc": "Evidence ledger: every number later waves need, transcribed with tag. RHP restated + AR reported + 5 quarters",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1_docmap"
+    ],
+    "artifact": "waves/W1_ledger.md"
+  },
+  {
+    "unit": "W1.5_triage",
+    "wave": "1.5",
+    "desc": "8-point quick screen + cash conversion + promoter/pledge/lock-in. KILL GATE",
+    "gate": true,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1_ledger"
+    ],
+    "artifact": "waves/W1.5_triage.md"
+  },
+  {
+    "unit": "W2_business",
+    "wave": "2",
+    "desc": "What BlueStone does. NO NUMBERS ALLOWED",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1.7_newlisting"
+    ],
+    "artifact": "waves/W2_business.md"
+  },
+  {
+    "unit": "W2_industry",
+    "wave": "2",
+    "desc": "Indian jewellery retail structure; where pricing power sits; gold-price mechanics",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1.7_newlisting"
+    ],
+    "artifact": "waves/W2_industry.md"
+  },
+  {
+    "unit": "W2_promise",
+    "wave": "2",
+    "desc": "Promise vs delivery: RHP objects/strategy + 5 concalls. Hit-rate with n stated",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W0_documents"
+    ],
+    "artifact": "waves/W2_promise.md"
+  },
+  {
+    "unit": "W2_gov_early",
+    "wave": "2",
+    "desc": "Board, promoter/ownership, auditor change Jan-2026, resignations, regulatory, litigation",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W0_documents"
+    ],
+    "artifact": "waves/W2_gov_early.md"
+  },
+  {
+    "unit": "W2_peers",
+    "wave": "2",
+    "desc": "Peer set Titan/CaratLane, Kalyan, Senco, PNGJL + comparability basis",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1.7_newlisting"
+    ],
+    "artifact": "waves/W2_peers.md"
+  },
+  {
+    "unit": "W2_exits",
+    "wave": "2",
+    "desc": "Lock-in expiry ladder, PE/anchor exits, bulk/block, insider selling, SHP quarter-on-quarter",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1.7_newlisting"
+    ],
+    "artifact": "waves/W2_exits.md"
+  },
+  {
+    "unit": "W3_revenue",
+    "wave": "3",
+    "desc": "Revenue engine chains: channel, format, product mix, region, franchise vs COCO, AOV, volume x realisation",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W2_business",
+      "W1_ledger"
+    ],
+    "artifact": "waves/W3_revenue.md"
+  },
+  {
+    "unit": "W3_cost",
+    "wave": "3",
+    "desc": "Cost engine chains: COGS/gold, making charge, employee incl ESOP, rent/lease, marketing, other",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W2_business",
+      "W1_ledger"
+    ],
+    "artifact": "waves/W3_cost.md"
+  },
+  {
+    "unit": "W3_balancesheet",
+    "wave": "3",
+    "desc": "BS chains: inventory ageing, gold metal loan, leases, receivables, capex/CWIP, borrowings, cash",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1_ledger"
+    ],
+    "artifact": "waves/W3_balancesheet.md"
+  },
+  {
+    "unit": "W3_notes",
+    "wave": "3",
+    "desc": "Notes forensics + accounting policy change log + CARO + KAM + contingent liabilities",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1_ledger"
+    ],
+    "artifact": "waves/W3_notes.md"
+  },
+  {
+    "unit": "W3_group_rpt",
+    "wave": "3",
+    "desc": "Group tree, subsidiary, EtherealHouse investment, RPT ledger, promoter entities",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W1_ledger"
+    ],
+    "artifact": "waves/W3_group_rpt.md"
+  },
+  {
+    "unit": "W4_cash",
+    "wave": "4",
+    "desc": "Cash chains + Rs.100 map + cumulative CFO vs EBITDA vs capital raised FY23-FY26",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W3_revenue",
+      "W3_cost",
+      "W3_balancesheet"
+    ],
+    "artifact": "waves/W4_cash.md"
+  },
+  {
+    "unit": "W4_unitecon",
+    "wave": "4",
+    "desc": "Unit economics: per store, per order, AOV, contribution, operating leverage both directions",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W3_revenue",
+      "W3_cost"
+    ],
+    "artifact": "waves/W4_unitecon.md"
+  },
+  {
+    "unit": "W4_belowline",
+    "wave": "4",
+    "desc": "D&A, finance cost, other income, tax/DTA, exceptionals, ESOP charge, CCPS fair value, EPS, OCI",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W3_cost"
+    ],
+    "artifact": "waves/W4_belowline.md"
+  },
+  {
+    "unit": "W4_capalloc",
+    "wave": "4",
+    "desc": "IPO objects vs deployment (4 MARs + 4 SoDs) + pre-IPO capital history + incremental returns",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W3_balancesheet",
+      "W4_cash"
+    ],
+    "artifact": "waves/W4_capalloc.md"
+  },
+  {
+    "unit": "W5_earnings_quality",
+    "wave": "5",
+    "desc": "Trust verdict: High/Moderate/Low/Cannot-be-relied-upon. GATE",
+    "gate": true,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W4_cash",
+      "W4_belowline",
+      "W3_notes",
+      "W3_group_rpt"
+    ],
+    "artifact": "waves/W5_earnings_quality.md"
+  },
+  {
+    "unit": "W6_gov_synth",
+    "wave": "6",
+    "desc": "12-point governance, 5-bucket table, 8-point screen",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W5_earnings_quality",
+      "W2_gov_early",
+      "W3_group_rpt",
+      "W4_capalloc",
+      "W2_promise",
+      "W2_exits"
+    ],
+    "artifact": "waves/W6_gov_synth.md"
+  },
+  {
+    "unit": "W7_redflags",
+    "wave": "7",
+    "desc": "Red-flag register, severity, contradictions preserved. GATE",
+    "gate": true,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W6_gov_synth"
+    ],
+    "artifact": "waves/W7_redflags.md"
+  },
+  {
+    "unit": "W7_bearcase",
+    "wave": "7",
+    "desc": "Strongest bear case + thesis-breakers",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W7_redflags"
+    ],
+    "artifact": "waves/W7_bearcase.md"
+  },
+  {
+    "unit": "W8_valuation",
+    "wave": "8",
+    "desc": "Base/bear/bull from established drivers; what the current price implies",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W7_bearcase"
+    ],
+    "artifact": "waves/W8_valuation.md"
+  },
+  {
+    "unit": "W8_report",
+    "wave": "8",
+    "desc": "Assemble final report; no new analysis",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W8_valuation"
+    ],
+    "artifact": "REPORT.md"
+  },
+  {
+    "unit": "W8_qc",
+    "wave": "8",
+    "desc": "Adversarial QC in fresh context. verify.py must exit 0",
+    "gate": false,
+    "status": "pending",
+    "attempts": 0,
+    "last_error": null,
+    "deps": [
+      "W8_report"
+    ],
+    "artifact": "waves/W8_qc.md"
+  }
+]

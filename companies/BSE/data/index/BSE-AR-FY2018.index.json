@@ -1,0 +1,317 @@
+{
+ "fy": "2018",
+ "pdf_pages": 289,
+ "sections": {
+  "balance_sheet": [
+   133,
+   213
+  ],
+  "profit_loss": [
+   134,
+   153,
+   205,
+   214,
+   229
+  ],
+  "accounting_policies": [
+   133,
+   134,
+   138,
+   139,
+   140,
+   141,
+   142,
+   143,
+   144,
+   145,
+   146,
+   147
+  ],
+  "segment": [
+   195,
+   264
+  ],
+  "related_party": [
+   39,
+   40,
+   106,
+   116
+  ],
+  "contingent": [
+   22,
+   141,
+   195,
+   218,
+   264
+  ],
+  "corp_governance": [
+   102,
+   119
+  ],
+  "remuneration": [
+   48,
+   54,
+   110
+  ],
+  "csr": [
+   16,
+   17,
+   33,
+   34,
+   35,
+   36,
+   59,
+   60,
+   67,
+   104,
+   112,
+   120
+  ],
+  "subsidiaries_aoc1": [
+   8
+  ]
+ },
+ "notes": {
+  "18": {
+   "title": "BSE SME Platform",
+   "pdf_page": 25
+  },
+  "24": {
+   "title": "Stock Brokers are also allowed to borrow funds by issuance of",
+   "pdf_page": 31
+  },
+  "38": {
+   "title": "Application Release Management",
+   "pdf_page": 45
+  },
+  "1": {
+   "title": "Shri Ashishkumar",
+   "pdf_page": 65
+  },
+  "27": {
+   "title": "President and Group Chief Information",
+   "pdf_page": 65
+  },
+  "5": {
+   "title": "Shri Neeraj",
+   "pdf_page": 65
+  },
+  "2": {
+   "title": "Marketplace Technologies Private Limited",
+   "pdf_page": 66
+  },
+  "3": {
+   "title": "BSE Institute Limited",
+   "pdf_page": 67
+  },
+  "4": {
+   "title": "BSE Investments Limited",
+   "pdf_page": 67
+  },
+  "6": {
+   "title": "India International Exchange (IFSC) Limited",
+   "pdf_page": 67
+  },
+  "7": {
+   "title": "India International Clearing Corporation (IFSC)",
+   "pdf_page": 67
+  },
+  "8": {
+   "title": "BSE CSR Integrated Foundation",
+   "pdf_page": 67
+  },
+  "9": {
+   "title": "Marketplace Tech Infra Services Private Limited",
+   "pdf_page": 67
+  },
+  "10": {
+   "title": "BSE Skills Limited",
+   "pdf_page": 67
+  },
+  "11": {
+   "title": "BFSI Sector Skill Council of India",
+   "pdf_page": 67
+  },
+  "13": {
+   "title": "Central Depository Services (India) Limited",
+   "pdf_page": 68
+  },
+  "14": {
+   "title": "CDSL Ventures Limited",
+   "pdf_page": 68
+  },
+  "15": {
+   "title": "CDSL Insurance Repository Limited",
+   "pdf_page": 68
+  },
+  "16": {
+   "title": "CDSL Commodity Repository Limited",
+   "pdf_page": 68
+  },
+  "17": {
+   "title": "Asia Index Private Limited",
+   "pdf_page": 68
+  },
+  "3.1": {
+   "title": "Strengths",
+   "pdf_page": 78
+  },
+  "3.2": {
+   "title": "Opportunities",
+   "pdf_page": 80
+  },
+  "74": {
+   "title": "Insurance Distribution",
+   "pdf_page": 81
+  },
+  "4.1": {
+   "title": "Industry activity levels decline",
+   "pdf_page": 81
+  },
+  "4.2": {
+   "title": "Regulatory changes impact our ability to compete",
+   "pdf_page": 81
+  },
+  "4.3": {
+   "title": "Universal Exchange Platform",
+   "pdf_page": 81
+  },
+  "4.4": {
+   "title": "Cybersecurity threats",
+   "pdf_page": 82
+  },
+  "4.5": {
+   "title": "Global Protectionist Trends",
+   "pdf_page": 82
+  },
+  "5.1": {
+   "title": "Launch of Commodity Derivatives",
+   "pdf_page": 82
+  },
+  "5.2": {
+   "title": "India International Exchange (IFSC) Limited (INDIA INX)",
+   "pdf_page": 82
+  },
+  "5.4": {
+   "title": "Diversify our product and service offerings and maintain",
+   "pdf_page": 85
+  },
+  "5.5": {
+   "title": "Strengthen our position as the Exchange of choice in",
+   "pdf_page": 85
+  },
+  "5.6": {
+   "title": "Focus on increasing our market share of derivative",
+   "pdf_page": 86
+  },
+  "5.7": {
+   "title": "Implementation of Open source in database & work-",
+   "pdf_page": 86
+  },
+  "5.8": {
+   "title": "Hybrid Cloud framework",
+   "pdf_page": 86
+  },
+  "5.9": {
+   "title": "Implementation of Next Generation Cyber Security",
+   "pdf_page": 87
+  },
+  "6.1": {
+   "title": "Business Risks",
+   "pdf_page": 87
+  },
+  "6.2": {
+   "title": "Cyber Security",
+   "pdf_page": 88
+  },
+  "6.3": {
+   "title": "Regulatory & Compliance",
+   "pdf_page": 89
+  },
+  "9.1": {
+   "title": "Sources of Funds",
+   "pdf_page": 90
+  },
+  "86": {
+   "title": "Capital Work in Progress and Intangible under",
+   "pdf_page": 93
+  },
+  "88": {
+   "title": "The earmarked balances in the current account and deposit",
+   "pdf_page": 95
+  },
+  "9.4": {
+   "title": "CASH FLOW",
+   "pdf_page": 100
+  },
+  "94": {
+   "title": "The cash outflow from financing activities was higher in FY",
+   "pdf_page": 101
+  },
+  "9.5": {
+   "title": "Earnings per Share (EPS)",
+   "pdf_page": 101
+  },
+  "9.6": {
+   "title": "Segment-wise reporting - Consolidated",
+   "pdf_page": 101
+  },
+  "9.7": {
+   "title": "Material developments after balance sheet date",
+   "pdf_page": 101
+  },
+  "96": {
+   "title": "Recognised Stock Exchange, appointments of all the",
+   "pdf_page": 103
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 138
+  },
+  "15.1": {
+   "title": "General reserve",
+   "pdf_page": 173
+  },
+  "15.2": {
+   "title": "Capital reserve",
+   "pdf_page": 174
+  },
+  "15.3": {
+   "title": "Securities premium",
+   "pdf_page": 174
+  },
+  "15.4": {
+   "title": "Retained earnings",
+   "pdf_page": 174
+  },
+  "15.5": {
+   "title": "Disposal of partial interest in CDSL",
+   "pdf_page": 174
+  },
+  "28.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 182
+  },
+  "31.1": {
+   "title": "Finance Lease",
+   "pdf_page": 184
+  },
+  "31.2": {
+   "title": "Operating lease",
+   "pdf_page": 185
+  },
+  "38.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 196
+  },
+  "47.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 203
+  },
+  "40.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 268
+  }
+ },
+ "printed_map": null
+}

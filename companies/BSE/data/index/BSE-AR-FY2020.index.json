@@ -1,0 +1,349 @@
+{
+ "fy": "2020",
+ "pdf_pages": 317,
+ "sections": {
+  "balance_sheet": [
+   152,
+   159,
+   245
+  ],
+  "profit_loss": [
+   160,
+   235,
+   246,
+   263
+  ],
+  "accounting_policies": [
+   159,
+   160,
+   164,
+   165,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173
+  ],
+  "segment": [
+   119,
+   228,
+   304
+  ],
+  "related_party": [
+   38,
+   123,
+   124,
+   133
+  ],
+  "contingent": [
+   167,
+   175,
+   227,
+   250,
+   303
+  ],
+  "corp_governance": [
+   41,
+   135,
+   136,
+   137,
+   138,
+   139
+  ],
+  "remuneration": [
+   26,
+   37,
+   60,
+   66
+  ],
+  "csr": [
+   20,
+   26,
+   38,
+   49,
+   63,
+   64,
+   108,
+   128,
+   140,
+   141,
+   143,
+   149
+  ],
+  "bsr": [
+   41,
+   141,
+   142
+  ],
+  "subsidiaries_aoc1": [
+   4,
+   27
+  ]
+ },
+ "notes": {
+  "01": {
+   "title": "BSE LIMITED",
+   "pdf_page": 8
+  },
+  "03": {
+   "title": "BSE LIMITEDNotice",
+   "pdf_page": 10
+  },
+  "05": {
+   "title": "BSE LIMITEDNotice",
+   "pdf_page": 12
+  },
+  "07": {
+   "title": "BSE LIMITEDNotice",
+   "pdf_page": 14
+  },
+  "09": {
+   "title": "BSE LIMITEDNotice",
+   "pdf_page": 16
+  },
+  "11": {
+   "title": "BSE LIMITEDNotice",
+   "pdf_page": 18
+  },
+  "13": {
+   "title": "BSE LIMITEDNotice",
+   "pdf_page": 20
+  },
+  "16": {
+   "title": "Standalone results",
+   "pdf_page": 23
+  },
+  "22": {
+   "title": "Big Data Enhancements & new initiatives",
+   "pdf_page": 29
+  },
+  "24": {
+   "title": "Financial ERP solution developed by Marketplace Technologies",
+   "pdf_page": 31
+  },
+  "3": {
+   "title": "Shri Nitin Gadkari, Minister of Road Transport & Highways,",
+   "pdf_page": 39
+  },
+  "5": {
+   "title": "Shri Devendra Fadnavis,  Former Chief Minister of Maharashtra",
+   "pdf_page": 39
+  },
+  "7": {
+   "title": "Shri Jaykumar Rawal,  Former Minister of Food and Drugs,",
+   "pdf_page": 39
+  },
+  "8": {
+   "title": "Shri Subramanian Swamy , Member of Parliament, Rajya Sabha",
+   "pdf_page": 39
+  },
+  "9": {
+   "title": "Shri Ram Mohan Mishra,  Additional Secretary & Development",
+   "pdf_page": 39
+  },
+  "10": {
+   "title": "Shri Gyaneshwar Kumar Singh, Joint Secretary, Ministry of",
+   "pdf_page": 39
+  },
+  "12": {
+   "title": "Shri Sanjay Bahl, Director General, Indian Computer Emergency",
+   "pdf_page": 39
+  },
+  "15": {
+   "title": "Shri S K Mohanty , Whole-Time Member, SEBI",
+   "pdf_page": 39
+  },
+  "19": {
+   "title": "Shri Balsingh Rajput,  Maharashtra Cyber Crime",
+   "pdf_page": 39
+  },
+  "20": {
+   "title": "Shri Harish Baijal,  Maharashtra Cyber Security",
+   "pdf_page": 39
+  },
+  "21": {
+   "title": "Shri Rajnish Kumar , Chairman, State Bank of India",
+   "pdf_page": 39
+  },
+  "25": {
+   "title": "Shri Mahendra Pratap Mall,  CMD, IRCTC",
+   "pdf_page": 39
+  },
+  "27": {
+   "title": "Shri Partha S Bhattachar ya, Former Chairman, Coal India",
+   "pdf_page": 40
+  },
+  "28": {
+   "title": "Shri Dinesh Pangtey , CEO, LIC Mutual Fund",
+   "pdf_page": 40
+  },
+  "33": {
+   "title": "Honorable Victor Fedeli, Minister of Economic Development,",
+   "pdf_page": 40
+  },
+  "60": {
+   "title": "Shri Ashank Desai, VC - SINE/IITB Incubator",
+   "pdf_page": 40
+  },
+  "64": {
+   "title": "Shri Ashok Agarwal, Chairman, Globe Capital & Chief Mentor,",
+   "pdf_page": 40
+  },
+  "66": {
+   "title": "Shri Somasundaram PR,  MD, World Gold Council India",
+   "pdf_page": 40
+  },
+  "69": {
+   "title": "Shri Ashok Shah, Past President, Kutch Corporate Forum",
+   "pdf_page": 40
+  },
+  "75": {
+   "title": "Bollywood Director Shri Vivek Agnihotri",
+   "pdf_page": 40
+  },
+  "76": {
+   "title": "Bollywood Actor Shri Rajkummar Rao",
+   "pdf_page": 40
+  },
+  "29": {
+   "title": "President and Group Chief Information",
+   "pdf_page": 47
+  },
+  "62": {
+   "title": "ECONOMIC OUTLOOK",
+   "pdf_page": 69
+  },
+  "63": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 70
+  },
+  "65": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 72
+  },
+  "67": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 74
+  },
+  "71": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 78
+  },
+  "73": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 80
+  },
+  "77": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 84
+  },
+  "79": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 86
+  },
+  "81": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 88
+  },
+  "83": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 90
+  },
+  "1": {
+   "title": "ASIAN DEVELOPMENT",
+   "pdf_page": 91
+  },
+  "4": {
+   "title": "INDIAN RAILWAY",
+   "pdf_page": 91
+  },
+  "85": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 92
+  },
+  "87": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 94
+  },
+  "89": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 96
+  },
+  "90": {
+   "title": "COMPETITIVE STRENGTHS AND OPPORTUNITIES",
+   "pdf_page": 97
+  },
+  "91": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 98
+  },
+  "93": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 100
+  },
+  "95": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 102
+  },
+  "97": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 104
+  },
+  "99": {
+   "title": "BSE LIMITEDManagement Discussion & Analysis",
+   "pdf_page": 106
+  },
+  "2": {
+   "title": "How many stakeholder complaints have been received in the",
+   "pdf_page": 144
+  },
+  "6": {
+   "title": "What percentage of your permanent employees is members",
+   "pdf_page": 145
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 164
+  },
+  "15.1": {
+   "title": "Gener al reserve",
+   "pdf_page": 203
+  },
+  "15.2": {
+   "title": "Capital r eserve",
+   "pdf_page": 203
+  },
+  "15.3": {
+   "title": "Securities pr emium",
+   "pdf_page": 203
+  },
+  "15.4": {
+   "title": "Retained ear nings",
+   "pdf_page": 203
+  },
+  "15.5": {
+   "title": "Liquidity Enhancement Sc heme (LES) Reserve",
+   "pdf_page": 203
+  },
+  "28.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 212
+  },
+  "38.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 228
+  },
+  "42.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 235
+  },
+  "39.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 307
+  }
+ },
+ "printed_map": null
+}

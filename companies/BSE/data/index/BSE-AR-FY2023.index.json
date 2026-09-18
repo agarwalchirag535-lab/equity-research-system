@@ -1,0 +1,192 @@
+{
+ "fy": "2023",
+ "pdf_pages": 317,
+ "sections": {
+  "balance_sheet": [
+   161,
+   250
+  ],
+  "profit_loss": [
+   162,
+   251,
+   270
+  ],
+  "accounting_policies": [
+   161,
+   162,
+   166,
+   167,
+   168,
+   169,
+   170,
+   171,
+   172,
+   173,
+   174,
+   175
+  ],
+  "segment": [
+   231,
+   306
+  ],
+  "related_party": [
+   42,
+   74,
+   97,
+   98,
+   109,
+   216,
+   292
+  ],
+  "contingent": [
+   26,
+   153,
+   169,
+   179,
+   182,
+   230,
+   255,
+   267,
+   306
+  ],
+  "corp_governance": [
+   43,
+   111,
+   113,
+   114,
+   115,
+   116
+  ],
+  "remuneration": [
+   12,
+   35,
+   42,
+   50,
+   56
+  ],
+  "csr": [
+   35,
+   36,
+   42,
+   53,
+   54,
+   55,
+   103,
+   120,
+   126,
+   127,
+   139,
+   140
+  ],
+  "bsr": [
+   43
+  ],
+  "subsidiaries_aoc1": [
+   4,
+   36
+  ]
+ },
+ "notes": {
+  "3": {
+   "title": "For updating E-mail ID & Bank details before the Cut-off",
+   "pdf_page": 19
+  },
+  "6": {
+   "title": "TDS on Dividend & Link for downloading formats for",
+   "pdf_page": 19
+  },
+  "35": {
+   "title": "Executive Director at Morgan",
+   "pdf_page": 49
+  },
+  "32": {
+   "title": "President at Quantum Project",
+   "pdf_page": 49
+  },
+  "22": {
+   "title": "Chief Information Security",
+   "pdf_page": 49
+  },
+  "5": {
+   "title": "Power Finance Corporation",
+   "pdf_page": 71
+  },
+  "1": {
+   "title": "SEBI Violation of SEBI Circulars dated",
+   "pdf_page": 110
+  },
+  "2": {
+   "title": "Name of the Listed Entity BSE Limited",
+   "pdf_page": 117
+  },
+  "4": {
+   "title": "Permanent (F) NA NA NA NA NA",
+   "pdf_page": 119
+  },
+  "7": {
+   "title": "Corporate Social",
+   "pdf_page": 124
+  },
+  "8": {
+   "title": "Indian Banks Association National",
+   "pdf_page": 148
+  },
+  "9": {
+   "title": "Bombay Chamber of Commerce & Industry National",
+   "pdf_page": 148
+  },
+  "10": {
+   "title": "Indo-German Chamber of Commerce National",
+   "pdf_page": 148
+  },
+  "11": {
+   "title": "Other comprehensive income",
+   "pdf_page": 162
+  },
+  "2.1": {
+   "title": "Basis of preparation and presentation",
+   "pdf_page": 166
+  },
+  "28.1": {
+   "title": "CSR Expenditure",
+   "pdf_page": 216
+  },
+  "39.2": {
+   "title": "Information about geographic areas",
+   "pdf_page": 231
+  },
+  "43.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 238
+  },
+  "69": {
+   "title": "Trustees of the",
+   "pdf_page": 246
+  },
+  "3.1": {
+   "title": "CAPITAL WORK-IN-PROGRESS AGEING SCHEDULE",
+   "pdf_page": 269
+  },
+  "15.1": {
+   "title": "General reserve",
+   "pdf_page": 285
+  },
+  "15.2": {
+   "title": "Capital reserve",
+   "pdf_page": 285
+  },
+  "15.3": {
+   "title": "Retained earnings",
+   "pdf_page": 285
+  },
+  "38.2": {
+   "title": "Information about geographical area",
+   "pdf_page": 306
+  },
+  "40.3": {
+   "title": "Compensated Absences",
+   "pdf_page": 309
+  }
+ },
+ "printed_map": null
+}
